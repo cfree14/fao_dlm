@@ -1,0 +1,29 @@
+Species: Paralithodes camtschaticus , stock: AFSC-RKCRABBB-1960-2008-JENSEN 
+ Red king crab 
+ Source: RAMLDB 
+ Region: US Alaska , Bristol Bay 
+ Catch data used from years 1960 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1995 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.6 - 1.5 default , prior range for k  = 33.6 - 336
+
+ Results of CMSY analysis with altogether 7 viable trajectories for 7 r-k pairs 
+ r = 0.823 , 95% CL = 0.774 - 0.875 , k = 143 , 95% CL = 129 - 159 
+ MSY = 29.4 , 95% CL = 25.2 - 34.4 
+ Relative biomass last year = 0.0771 k, 2.5th = 0.0651 , 97.5th = 0.0908 
+ Exploitation F/(r/2) in last year = 2.32 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.411 , 95% CL = 0.387 - 0.437 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.127 , 95% CL = 0.119 - 0.135 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 29.4 ,  95% CL = 25.2 - 34.4 
+ Bmsy = 71.5 ,  95% CL = 64.5 - 79.3 
+ Biomass in last year  = 11 , 2.5th perc = 9.32 , 97.5 perc = 13 
+ B/Bmsy in last year   = 0.154 , 2.5th perc = 0.13 , 97.5 perc = 0.182 
+ Fishing mortality in last year = 0.955 , 2.5th perc = 0.812 , 97.5 perc = 1.13 
+ F/Fmsy  = 7.52 , 2.5th perc = 6.39 , 97.5 perc = 8.91 
+ Comment: NA 
+ ----------------------------------------------------------
+

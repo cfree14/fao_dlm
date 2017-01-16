@@ -1,0 +1,29 @@
+Species: Sepia officinalis , stock: SEPIOFF_CY 
+ Common cuttlefish in Cypriot waters 
+ Source:  
+ Region: Mediterranean , Cyprus 
+ Catch data used from years 1970 - 2014 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 expert 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 2010 default 
+ Prior final relative biomass   = 0.01 - 0.3 expert 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 0.227 - 3.63
+
+ Results of CMSY analysis with altogether 2388 viable trajectories for 1289 r-k pairs 
+ r = 0.521 , 95% CL = 0.37 - 0.733 , k = 0.814 , 95% CL = 0.571 - 1.16 
+ MSY = 0.106 , 95% CL = 0.0956 - 0.117 
+ Relative biomass last year = 0.12 k, 2.5th = 0.0143 , 97.5th = 0.286 
+ Exploitation F/(r/2) in last year = 0.863 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.26 , 95% CL = 0.185 - 0.366 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.125 , 95% CL = 0.0891 - 0.176 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.106 ,  95% CL = 0.0956 - 0.117 
+ Bmsy = 0.407 ,  95% CL = 0.285 - 0.58 
+ Biomass in last year  = 0.0979 , 2.5th perc = 0.0116 , 97.5 perc = 0.233 
+ B/Bmsy in last year   = 0.241 , 2.5th perc = 0.0286 , 97.5 perc = 0.572 
+ Fishing mortality in last year = 0.225 , 2.5th perc = 0.0946 , 97.5 perc = 1.89 
+ F/Fmsy  = 1.79 , 2.5th perc = 0.755 , 97.5 perc = 15.1 
+ Comment: Catch=landings from FishStat Based on Cypriot catches only. RF final 0.3. GS OK 
+ ----------------------------------------------------------
+

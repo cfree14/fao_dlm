@@ -1,0 +1,1885 @@
+Species: Anoplopoma fimbria , stock: AFSC-SABLEFEBSAIGA-1958-2010-STACHURA 
+ Sablefish 
+ Source: RAMLDB 
+ Region: US Alaska , Eastern Bering Sea / Aleutian Islands / Gulf of Alaska 
+ Catch data used from years 1960 - 2010 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1971 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 89.5 - 3581
+
+ Results of CMSY analysis with altogether 3122 viable trajectories for 1836 r-k pairs 
+ r = 0.238 , 95% CL = 0.146 - 0.386 , k = 364 , 95% CL = 211 - 628 
+ MSY = 21.6 , 95% CL = 19.2 - 24.2 
+ Relative biomass last year = 0.193 k, 2.5th = 0.0165 , 97.5th = 0.298 
+ Exploitation F/(r/2) in last year = 1.35 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.119 , 95% CL = 0.073 - 0.193 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0918 , 95% CL = 0.0564 - 0.149 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 21.6 ,  95% CL = 19.2 - 24.2 
+ Bmsy = 182 ,  95% CL = 105 - 314 
+ Biomass in last year  = 70.3 , 2.5th perc = 6.01 , 97.5 perc = 108.3696 
+ B/Bmsy in last year   = 0.3865751 , 2.5th perc = 0.03306241 , 97.5 perc = 0.5959931 
+ Fishing mortality in last year = 0.1607601 , 2.5th perc = 0.1042728 , 97.5 perc = 1.879652 
+ F/Fmsy  = 1.750824 , 2.5th perc = 1.135626 , 97.5 perc = 20.47114 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Chionoecetes opilio , stock: AFSC-SNOWCRABBS-1978-2013-HIVELY 
+ Snow crab 
+ Source: RAMLDB 
+ Region: US Alaska , Bering Sea 
+ Catch data used from years 1978 - 2012 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 2003 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 166 - 2651
+
+ Results of CMSY analysis with altogether 2254 viable trajectories for 1573 r-k pairs 
+ r = 0.49 , 95% CL = 0.325 - 0.741 , k = 508 , 95% CL = 356 - 725 
+ MSY = 62.3 , 95% CL = 54 - 71.9 
+ Relative biomass last year = 0.117 k, 2.5th = 0.0123 , 97.5th = 0.293 
+ Exploitation F/(r/2) in last year = 2.06 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.245 , 95% CL = 0.162 - 0.37 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.115 , 95% CL = 0.0762 - 0.174 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 62.3 ,  95% CL = 54 - 71.9 
+ Bmsy = 254 ,  95% CL = 178 - 363 
+ Biomass in last year  = 59.7 , 2.5th perc = 6.23 , 97.5 perc = 149 
+ B/Bmsy in last year   = 0.235 , 2.5th perc = 0.0245 , 97.5 perc = 0.585 
+ Fishing mortality in last year = 0.504 , 2.5th perc = 0.202 , 97.5 perc = 4.83 
+ F/Fmsy  = 4.38 , 2.5th perc = 1.76 , 97.5 perc = 41.9 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Chionoecetes bairdi , stock: AFSC-TANNERCRABBSAI-1949-2013-HIVELY 
+ Tanner crab 
+ Source: RAMLDB 
+ Region: US Alaska , Bering Sea and Aleutian Islands 
+ Catch data used from years 1966 - 2013 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1999 default 
+ Prior final relative biomass   = 0.01 - 0.1 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 36.1 - 577
+
+ Results of CMSY analysis with altogether 601 viable trajectories for 583 r-k pairs 
+ r = 0.381 , 95% CL = 0.25 - 0.581 , k = 170 , 95% CL = 125 - 231 
+ MSY = 16.2 , 95% CL = 13.2 - 19.8 
+ Relative biomass last year = 0.0403 k, 2.5th = 0.0114 , 97.5th = 0.0953 
+ Exploitation F/(r/2) in last year = 0 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.19 , 95% CL = 0.125 - 0.29 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0307 , 95% CL = 0.0202 - 0.0468 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 16.2 ,  95% CL = 13.2 - 19.8 
+ Bmsy = 85 ,  95% CL = 62.5 - 116 
+ Biomass in last year  = 6.85 , 2.5th perc = 1.94 , 97.5 perc = 16.2 
+ B/Bmsy in last year   = 0.0806 , 2.5th perc = 0.0229 , 97.5 perc = 0.191 
+ Fishing mortality in last year = 0 , 2.5th perc = 0 , 97.5 perc = 0 
+ F/Fmsy  = 0 , 2.5th perc = 0 , 97.5 perc = 0 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Theragra chalcogramma , stock: AFSC-WPOLLAI-1976-2013-CHING 
+ Walleye pollock 
+ Source: RAMLDB 
+ Region: US Alaska , Aleutian Islands 
+ Catch data used from years 1977 - 2012 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 2000 default 
+ Prior final relative biomass   = 0.01 - 0.1 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 153 - 6133
+
+ Results of CMSY analysis with altogether 3426 viable trajectories for 2674 r-k pairs 
+ r = 0.274 , 95% CL = 0.16 - 0.468 , k = 535 , 95% CL = 267 - 1074 
+ MSY = 36.7 , 95% CL = 26.8 - 50.1 
+ Relative biomass last year = 0.0435 k, 2.5th = 0.0111 , 97.5th = 0.097 
+ Exploitation F/(r/2) in last year = 0.302 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.137 , 95% CL = 0.0801 - 0.234 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0238 , 95% CL = 0.0139 - 0.0407 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 36.7 ,  95% CL = 26.8 - 50.1 
+ Bmsy = 268 ,  95% CL = 133 - 537 
+ Biomass in last year  = 23.3 , 2.5th perc = 5.96 , 97.5 perc = 51.9 
+ B/Bmsy in last year   = 0.087 , 2.5th perc = 0.0223 , 97.5 perc = 0.194 
+ Fishing mortality in last year = 0.0413 , 2.5th perc = 0.0185 , 97.5 perc = 0.161 
+ F/Fmsy  = 1.73 , 2.5th perc = 0.777 , 97.5 perc = 6.77 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Theragra chalcogramma , stock: AFSC-WPOLLEBS-1964-2013-CHING 
+ Walleye pollock 
+ Source: RAMLDB 
+ Region: US Alaska , Eastern Bering Sea 
+ Catch data used from years 1964 - 2012 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1972 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 3585 - 143392
+
+ Results of CMSY analysis with altogether 5102 viable trajectories for 1072 r-k pairs 
+ r = 0.278 , 95% CL = 0.159 - 0.487 , k = 17215 , 95% CL = 9272 - 31962 
+ MSY = 1197 , 95% CL = 1028 - 1392 
+ Relative biomass last year = 0.503 k, 2.5th = 0.227 , 97.5th = 0.597 
+ Exploitation F/(r/2) in last year = 0.997 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.139 , 95% CL = 0.0793 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.139 , 95% CL = 0.0793 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 1197 ,  95% CL = 1028 - 1392 
+ Bmsy = 8608 ,  95% CL = 4636 - 15981 
+ Biomass in last year  = 8662 , 2.5th perc = 3903 , 97.5 perc = 10276 
+ B/Bmsy in last year   = 1.01 , 2.5th perc = 0.453 , 97.5 perc = 1.19 
+ Fishing mortality in last year = 0.139 , 2.5th perc = 0.117 , 97.5 perc = 0.307 
+ F/Fmsy  = 0.997 , 2.5th perc = 0.84 , 97.5 perc = 2.21 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Theragra chalcogramma , stock: AFSC-WPOLLGA-1970-2014-HIVELY 
+ Walleye pollock 
+ Source: RAMLDB 
+ Region: US Alaska , Gulf of Alaska 
+ Catch data used from years 1977 - 2013 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 2008 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 540 - 21602
+
+ Results of CMSY analysis with altogether 5469 viable trajectories for 3237 r-k pairs 
+ r = 0.203 , 95% CL = 0.118 - 0.348 , k = 2602 , 95% CL = 1235 - 5483 
+ MSY = 132 , 95% CL = 72.8 - 239 
+ Relative biomass last year = 0.296 k, 2.5th = 0.0205 , 97.5th = 0.395 
+ Exploitation F/(r/2) in last year = 1.23 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.101 , 95% CL = 0.0592 - 0.174 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.101 , 95% CL = 0.0592 - 0.174 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 132 ,  95% CL = 72.8 - 239 
+ Bmsy = 1301 ,  95% CL = 617 - 2741 
+ Biomass in last year  = 770 , 2.5th perc = 53.3 , 97.5 perc = 1029 
+ B/Bmsy in last year   = 0.592 , 2.5th perc = 0.041 , 97.5 perc = 0.791 
+ Fishing mortality in last year = 0.125 , 2.5th perc = 0.0936 , 97.5 perc = 1.81 
+ F/Fmsy  = 1.23 , 2.5th perc = 0.923 , 97.5 perc = 17.8 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Limanda aspera , stock: AFSC-YSOLEBSAI-1949-2010-STACHURA 
+ Yellowfin sole 
+ Source: RAMLDB 
+ Region: US Alaska , Bering Sea and Aleutian Islands 
+ Catch data used from years 1964 - 2009 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1986 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 411 - 16457
+
+ Results of CMSY analysis with altogether 3294 viable trajectories for 1092 r-k pairs 
+ r = 0.278 , 95% CL = 0.162 - 0.478 , k = 1744 , 95% CL = 935 - 3253 
+ MSY = 121 , 95% CL = 103 - 142 
+ Relative biomass last year = 0.499 k, 2.5th = 0.251 , 97.5th = 0.597 
+ Exploitation F/(r/2) in last year = 0.889 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.139 , 95% CL = 0.0809 - 0.239 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.139 , 95% CL = 0.0809 - 0.239 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 121 ,  95% CL = 103 - 142 
+ Bmsy = 872 ,  95% CL = 468 - 1626 
+ Biomass in last year  = 870 , 2.5th perc = 438 , 97.5 perc = 1041 
+ B/Bmsy in last year   = 0.998 , 2.5th perc = 0.502 , 97.5 perc = 1.19 
+ Fishing mortality in last year = 0.124 , 2.5th perc = 0.103 , 97.5 perc = 0.246 
+ F/Fmsy  = 0.889 , 2.5th perc = 0.743 , 97.5 perc = 1.77 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Micropogonias undulatus , stock: ASMFC-ATLCROAKMATLC-1973-2002-STANTON 
+ Atlantic croaker 
+ Source: RAMLDB 
+ Region: US East Coast , Mid-Atlantic Coast 
+ Catch data used from years 1973 - 2002 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1991 default 
+ Prior final relative biomass   = 0.4 - 0.8 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 45.1 - 1082
+
+ Results of CMSY analysis with altogether 1373 viable trajectories for 1237 r-k pairs 
+ r = 0.507 , 95% CL = 0.35 - 0.733 , k = 103 , 95% CL = 64.9 - 163 
+ MSY = 13 , 95% CL = 9.51 - 17.9 
+ Relative biomass last year = 0.471 k, 2.5th = 0.405 , 97.5th = 0.654 
+ Exploitation F/(r/2) in last year = 1.33 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.253 , 95% CL = 0.175 - 0.367 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.253 , 95% CL = 0.175 - 0.367 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 13 ,  95% CL = 9.51 - 17.9 
+ Bmsy = 51.5 ,  95% CL = 32.5 - 81.6 
+ Biomass in last year  = 48.5 , 2.5th perc = 41.7 , 97.5 perc = 67.4 
+ B/Bmsy in last year   = 0.943 , 2.5th perc = 0.81 , 97.5 perc = 1.31 
+ Fishing mortality in last year = 0.336 , 2.5th perc = 0.242 , 97.5 perc = 0.391 
+ F/Fmsy  = 1.33 , 2.5th perc = 0.956 , 97.5 perc = 1.54 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Homarus americanus , stock: ASMFC-LOBSTERGOM-1981-2007-STANTON 
+ American lobster 
+ Source: RAMLDB 
+ Region: US East Coast , Gulf of Maine 
+ Catch data used from years 1981 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 2003 default 
+ Prior final relative biomass   = 0.4 - 0.8 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 91.1 - 2188
+
+ Results of CMSY analysis with altogether 4513 viable trajectories for 1205 r-k pairs 
+ r = 0.561 , 95% CL = 0.401 - 0.785 , k = 194 , 95% CL = 128 - 292 
+ MSY = 27.2 , 95% CL = 23 - 32.2 
+ Relative biomass last year = 0.449 k, 2.5th = 0.402 , 97.5th = 0.544 
+ Exploitation F/(r/2) in last year = 1.34 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.281 , 95% CL = 0.201 - 0.392 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.281 , 95% CL = 0.201 - 0.392 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 27.2 ,  95% CL = 23 - 32.2 
+ Bmsy = 96.9 ,  95% CL = 64.2 - 146 
+ Biomass in last year  = 87.1 , 2.5th perc = 78 , 97.5 perc = 105 
+ B/Bmsy in last year   = 0.899 , 2.5th perc = 0.805 , 97.5 perc = 1.09 
+ Fishing mortality in last year = 0.375 , 2.5th perc = 0.31 , 97.5 perc = 0.419 
+ F/Fmsy  = 1.34 , 2.5th perc = 1.11 , 97.5 perc = 1.49 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Sebastes fasciatus , stock: NEFSC-ACADREDGOMGB-1913-2007-MILLER 
+ Acadian redfish 
+ Source: RAMLDB 
+ Region: US East Coast , Gulf of Maine / Georges Bank 
+ Catch data used from years 1913 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1942 default 
+ Prior final relative biomass   = 0.01 - 0.1 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 103 - 4134
+
+ Results of CMSY analysis with altogether 3080 viable trajectories for 1529 r-k pairs 
+ r = 0.169 , 95% CL = 0.112 - 0.255 , k = 426 , 95% CL = 267 - 680 
+ MSY = 18.1 , 95% CL = 15.2 - 21.4 
+ Relative biomass last year = 0.0382 k, 2.5th = 0.0106 , 97.5th = 0.0907 
+ Exploitation F/(r/2) in last year = 0.841 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.0847 , 95% CL = 0.0562 - 0.128 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.013 , 95% CL = 0.0086 - 0.0195 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 18.1 ,  95% CL = 15.2 - 21.4 
+ Bmsy = 213 ,  95% CL = 134 - 340 
+ Biomass in last year  = 16.3 , 2.5th perc = 4.53 , 97.5 perc = 38.6 
+ B/Bmsy in last year   = 0.0764 , 2.5th perc = 0.0213 , 97.5 perc = 0.181 
+ Fishing mortality in last year = 0.0712 , 2.5th perc = 0.03 , 97.5 perc = 0.256 
+ F/Fmsy  = 5.5 , 2.5th perc = 2.32 , 97.5 perc = 19.8 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Hippoglossoides platessoides , stock: NEFSC-AMPL5YZ-1960-2008-OBRIEN 
+ American plaice 
+ Source: RAMLDB 
+ Region: US East Coast , Gulf of Maine / Georges Bank 
+ Catch data used from years 1960 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1981 default 
+ Prior final relative biomass   = 0.01 - 0.2 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 27.8 - 1111
+
+ Results of CMSY analysis with altogether 3631 viable trajectories for 2111 r-k pairs 
+ r = 0.247 , 95% CL = 0.138 - 0.439 , k = 88.3 , 95% CL = 48.7 - 160 
+ MSY = 5.44 , 95% CL = 4.55 - 6.51 
+ Relative biomass last year = 0.0931 k, 2.5th = 0.0139 , 97.5th = 0.195 
+ Exploitation F/(r/2) in last year = 0.975 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.123 , 95% CL = 0.0692 - 0.22 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0459 , 95% CL = 0.0258 - 0.0818 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 5.44 ,  95% CL = 4.55 - 6.51 
+ Bmsy = 44.2 ,  95% CL = 24.4 - 80 
+ Biomass in last year  = 8.22 , 2.5th perc = 1.23 , 97.5 perc = 17.2 
+ B/Bmsy in last year   = 0.186 , 2.5th perc = 0.0278 , 97.5 perc = 0.389 
+ Fishing mortality in last year = 0.12 , 2.5th perc = 0.0575 , 97.5 perc = 0.805 
+ F/Fmsy  = 2.62 , 2.5th perc = 1.25 , 97.5 perc = 17.5 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Pomatomus saltatrix , stock: NEFSC-BLUEFISHATLC-1981-2007-SHEPHERD 
+ Bluefish 
+ Source: RAMLDB 
+ Region: US East Coast , Atlantic Coast 
+ Catch data used from years 1981 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1999 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 65.9 - 1054
+
+ Results of CMSY analysis with altogether 2438 viable trajectories for 2266 r-k pairs 
+ r = 0.432 , 95% CL = 0.28 - 0.664 , k = 492 , 95% CL = 264 - 916 
+ MSY = 53.1 , 95% CL = 25.2 - 112 
+ Relative biomass last year = 0.116 k, 2.5th = 0.017 , 97.5th = 0.289 
+ Exploitation F/(r/2) in last year = 1.26 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.216 , 95% CL = 0.14 - 0.332 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.101 , 95% CL = 0.0653 - 0.155 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 53.1 ,  95% CL = 25.2 - 112 
+ Bmsy = 246 ,  95% CL = 132 - 458 
+ Biomass in last year  = 57.3 , 2.5th perc = 8.38 , 97.5 perc = 142 
+ B/Bmsy in last year   = 0.233 , 2.5th perc = 0.0341 , 97.5 perc = 0.579 
+ Fishing mortality in last year = 0.272 , 2.5th perc = 0.109 , 97.5 perc = 1.86 
+ F/Fmsy  = 2.7 , 2.5th perc = 1.09 , 97.5 perc = 18.5 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Centropristis striata , stock: NEFSC-BSBASSMATLC-1968-2007-SHEPHERD 
+ Black sea bass 
+ Source: RAMLDB 
+ Region: US East Coast , Mid-Atlantic Coast 
+ Catch data used from years 1968 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1987 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 5.84 - 93.5
+
+ Results of CMSY analysis with altogether 5526 viable trajectories for 890 r-k pairs 
+ r = 0.566 , 95% CL = 0.407 - 0.785 , k = 24.7 , 95% CL = 16.6 - 36.6 
+ MSY = 3.49 , 95% CL = 3.06 - 3.98 
+ Relative biomass last year = 0.519 k, 2.5th = 0.247 , 97.5th = 0.598 
+ Exploitation F/(r/2) in last year = 0.776 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.283 , 95% CL = 0.204 - 0.392 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.283 , 95% CL = 0.204 - 0.392 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 3.49 ,  95% CL = 3.06 - 3.98 
+ Bmsy = 12.3 ,  95% CL = 8.31 - 18.3 
+ Biomass in last year  = 12.8 , 2.5th perc = 6.08 , 97.5 perc = 14.7 
+ B/Bmsy in last year   = 1.04 , 2.5th perc = 0.493 , 97.5 perc = 1.2 
+ Fishing mortality in last year = 0.219 , 2.5th perc = 0.191 , 97.5 perc = 0.462 
+ F/Fmsy  = 0.776 , 2.5th perc = 0.674 , 97.5 perc = 1.63 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Gadus morhua , stock: NEFSC-CODGB-1976-2011-CHING 
+ Atlantic cod 
+ Source: RAMLDB 
+ Region: US East Coast , Georges Bank 
+ Catch data used from years 1977 - 2011 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 2005 default 
+ Prior final relative biomass   = 0.01 - 0.2 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 68.5 - 1096
+
+ Results of CMSY analysis with altogether 1797 viable trajectories for 1661 r-k pairs 
+ r = 0.43 , 95% CL = 0.293 - 0.631 , k = 389 , 95% CL = 258 - 586 
+ MSY = 41.7 , 95% CL = 30 - 58 
+ Relative biomass last year = 0.0761 k, 2.5th = 0.014 , 97.5th = 0.194 
+ Exploitation F/(r/2) in last year = 0.714 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.215 , 95% CL = 0.146 - 0.315 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0653 , 95% CL = 0.0445 - 0.0959 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 41.7 ,  95% CL = 30 - 58 
+ Bmsy = 194 ,  95% CL = 129 - 293 
+ Biomass in last year  = 29.6 , 2.5th perc = 5.44 , 97.5 perc = 75.5 
+ B/Bmsy in last year   = 0.152 , 2.5th perc = 0.028 , 97.5 perc = 0.388 
+ Fishing mortality in last year = 0.153 , 2.5th perc = 0.0601 , 97.5 perc = 0.834 
+ F/Fmsy  = 2.35 , 2.5th perc = 0.919 , 97.5 perc = 12.8 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Gadus morhua , stock: NEFSC-CODGOM-1981-2011-CHING 
+ Atlantic cod 
+ Source: RAMLDB 
+ Region: US East Coast , Gulf of Maine 
+ Catch data used from years 1982 - 2011 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1998 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 22.4 - 358
+
+ Results of CMSY analysis with altogether 2080 viable trajectories for 1860 r-k pairs 
+ r = 0.401 , 95% CL = 0.249 - 0.644 , k = 156 , 95% CL = 93.1 - 260 
+ MSY = 15.6 , 95% CL = 8.74 - 27.8 
+ Relative biomass last year = 0.215 k, 2.5th = 0.0187 , 97.5th = 0.395 
+ Exploitation F/(r/2) in last year = 1.02 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.2 , 95% CL = 0.125 - 0.322 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.172 , 95% CL = 0.107 - 0.277 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 15.6 ,  95% CL = 8.74 - 27.8 
+ Bmsy = 77.8 ,  95% CL = 46.6 - 130 
+ Biomass in last year  = 33.5 , 2.5th perc = 2.9 , 97.5 perc = 61.5 
+ B/Bmsy in last year   = 0.43 , 2.5th perc = 0.0373 , 97.5 perc = 0.791 
+ Fishing mortality in last year = 0.205 , 2.5th perc = 0.112 , 97.5 perc = 2.36 
+ F/Fmsy  = 1.19 , 2.5th perc = 0.647 , 97.5 perc = 13.7 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Melanogrammus aeglefinus , stock: NEFSC-HAD5Y-1964-2011-CHING 
+ Haddock 
+ Source: RAMLDB 
+ Region: US East Coast , Gulf of Maine 
+ Catch data used from years 1964 - 2010 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1993 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 7.42 - 119
+
+ Results of CMSY analysis with altogether 465 viable trajectories for 457 r-k pairs 
+ r = 0.33 , 95% CL = 0.189 - 0.573 , k = 41.6 , 95% CL = 27.7 - 62.4 
+ MSY = 3.42 , 95% CL = 2.1 - 5.58 
+ Relative biomass last year = 0.116 k, 2.5th = 0.0153 , 97.5th = 0.293 
+ Exploitation F/(r/2) in last year = 1.65 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.165 , 95% CL = 0.0947 - 0.287 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0764 , 95% CL = 0.0439 - 0.133 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 3.42 ,  95% CL = 2.1 - 5.58 
+ Bmsy = 20.8 ,  95% CL = 13.8 - 31.2 
+ Biomass in last year  = 4.82 , 2.5th perc = 0.638 , 97.5 perc = 12.2 
+ B/Bmsy in last year   = 0.232 , 2.5th perc = 0.0307 , 97.5 perc = 0.586 
+ Fishing mortality in last year = 0.272 , 2.5th perc = 0.107 , 97.5 perc = 2.05 
+ F/Fmsy  = 3.55 , 2.5th perc = 1.41 , 97.5 perc = 26.9 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Melanogrammus aeglefinus , stock: NEFSC-HADGB-1931-2010-CHING 
+ Haddock 
+ Source: RAMLDB 
+ Region: US East Coast , Georges Bank 
+ Catch data used from years 1960 - 2010 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1996 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 140 - 2238
+
+ Results of CMSY analysis with altogether 411 viable trajectories for 407 r-k pairs 
+ r = 0.333 , 95% CL = 0.249 - 0.445 , k = 938 , 95% CL = 595 - 1479 
+ MSY = 78.1 , 95% CL = 44.3 - 138 
+ Relative biomass last year = 0.0887 k, 2.5th = 0.0121 , 97.5th = 0.288 
+ Exploitation F/(r/2) in last year = 1.87 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.166 , 95% CL = 0.125 - 0.222 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0591 , 95% CL = 0.0442 - 0.079 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 78.1 ,  95% CL = 44.3 - 138 
+ Bmsy = 469 ,  95% CL = 297 - 740 
+ Biomass in last year  = 83.2 , 2.5th perc = 11.4 , 97.5 perc = 271 
+ B/Bmsy in last year   = 0.177 , 2.5th perc = 0.0243 , 97.5 perc = 0.577 
+ Fishing mortality in last year = 0.311 , 2.5th perc = 0.0957 , 97.5 perc = 2.28 
+ F/Fmsy  = 5.27 , 2.5th perc = 1.62 , 97.5 perc = 38.6 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Pollachius virens , stock: NEFSC-POLL5YZ-1960-2009-CHING 
+ Pollock 
+ Source: RAMLDB 
+ Region: US East Coast , Gulf of Maine / Georges Bank 
+ Catch data used from years 1960 - 2009 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1995 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 28.2 - 450
+
+ Results of CMSY analysis with altogether 2043 viable trajectories for 1541 r-k pairs 
+ r = 0.416 , 95% CL = 0.278 - 0.623 , k = 146 , 95% CL = 110 - 192 
+ MSY = 15.1 , 95% CL = 13.8 - 16.6 
+ Relative biomass last year = 0.208 k, 2.5th = 0.0171 , 97.5th = 0.394 
+ Exploitation F/(r/2) in last year = 1.39 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.208 , 95% CL = 0.139 - 0.311 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.173 , 95% CL = 0.115 - 0.259 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 15.1 ,  95% CL = 13.8 - 16.6 
+ Bmsy = 72.8 ,  95% CL = 55.1 - 96.2 
+ Biomass in last year  = 30.3 , 2.5th perc = 2.5 , 97.5 perc = 57.4 
+ B/Bmsy in last year   = 0.416 , 2.5th perc = 0.0343 , 97.5 perc = 0.789 
+ Fishing mortality in last year = 0.289 , 2.5th perc = 0.152 , 97.5 perc = 3.5 
+ F/Fmsy  = 1.67 , 2.5th perc = 0.88 , 97.5 perc = 20.2 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Placopecten magellanicus , stock: NEFSC-SCALL5ZMAB-1964-2013-HIVELY 
+ Sea scallop 
+ Source: RAMLDB 
+ Region: US East Coast , Georges Bank and Mid-Atlantic Bight 
+ Catch data used from years 1964 - 2013 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 2005 default 
+ Prior final relative biomass   = 0.4 - 0.8 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 67.9 - 1631
+
+ Results of CMSY analysis with altogether 758 viable trajectories for 602 r-k pairs 
+ r = 0.72 , 95% CL = 0.651 - 0.796 , k = 127 , 95% CL = 109 - 147 
+ MSY = 22.8 , 95% CL = 20.7 - 25 
+ Relative biomass last year = 0.442 k, 2.5th = 0.401 , 97.5th = 0.561 
+ Exploitation F/(r/2) in last year = 0.927 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.36 , 95% CL = 0.325 - 0.398 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.36 , 95% CL = 0.325 - 0.398 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 22.8 ,  95% CL = 20.7 - 25 
+ Bmsy = 63.3 ,  95% CL = 54.5 - 73.4 
+ Biomass in last year  = 55.9 , 2.5th perc = 50.8 , 97.5 perc = 70.9 
+ B/Bmsy in last year   = 0.884 , 2.5th perc = 0.803 , 97.5 perc = 1.12 
+ Fishing mortality in last year = 0.334 , 2.5th perc = 0.263 , 97.5 perc = 0.367 
+ F/Fmsy  = 0.927 , 2.5th perc = 0.731 , 97.5 perc = 1.02 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Stenotomus chrysops , stock: NEFSC-SCUPNWATLC-1960-2007-TERCEIRO 
+ Scup 
+ Source: RAMLDB 
+ Region: US East Coast , Northwestern Atlantic Coast 
+ Catch data used from years 1960 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1997 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 46.5 - 744
+
+ Results of CMSY analysis with altogether 104 viable trajectories for 103 r-k pairs 
+ r = 0.297 , 95% CL = 0.248 - 0.356 , k = 452 , 95% CL = 298 - 688 
+ MSY = 33.6 , 95% CL = 19.1 - 59.2 
+ Relative biomass last year = 0.0685 k, 2.5th = 0.016 , 97.5th = 0.288 
+ Exploitation F/(r/2) in last year = 1.71 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.149 , 95% CL = 0.124 - 0.178 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0407 , 95% CL = 0.034 - 0.0488 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 33.6 ,  95% CL = 19.1 - 59.2 
+ Bmsy = 226 ,  95% CL = 149 - 344 
+ Biomass in last year  = 31 , 2.5th perc = 7.23 , 97.5 perc = 131 
+ B/Bmsy in last year   = 0.137 , 2.5th perc = 0.032 , 97.5 perc = 0.577 
+ Fishing mortality in last year = 0.254 , 2.5th perc = 0.0603 , 97.5 perc = 1.09 
+ F/Fmsy  = 6.24 , 2.5th perc = 1.48 , 97.5 perc = 26.7 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Paralichthys dentatus , stock: NEFSC-SFLOUNMATLC-1940-2012-HIVELY 
+ Summer flounder 
+ Source: RAMLDB 
+ Region: US East Coast , Mid-Atlantic Coast 
+ Catch data used from years 1940 - 2012 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1984 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 18.8 - 301
+
+ Results of CMSY analysis with altogether 2125 viable trajectories for 1201 r-k pairs 
+ r = 0.364 , 95% CL = 0.262 - 0.507 , k = 107 , 95% CL = 84.8 - 135 
+ MSY = 9.74 , 95% CL = 8.96 - 10.6 
+ Relative biomass last year = 0.301 k, 2.5th = 0.0177 , 97.5th = 0.395 
+ Exploitation F/(r/2) in last year = 1.03 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.182 , 95% CL = 0.131 - 0.253 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.182 , 95% CL = 0.131 - 0.253 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 9.74 ,  95% CL = 8.96 - 10.6 
+ Bmsy = 53.5 ,  95% CL = 42.4 - 67.5 
+ Biomass in last year  = 32.2 , 2.5th perc = 1.89 , 97.5 perc = 42.3 
+ B/Bmsy in last year   = 0.602 , 2.5th perc = 0.0353 , 97.5 perc = 0.79 
+ Fishing mortality in last year = 0.188 , 2.5th perc = 0.143 , 97.5 perc = 3.2 
+ F/Fmsy  = 1.03 , 2.5th perc = 0.786 , 97.5 perc = 17.6 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Spisula solidissima , stock: NEFSC-SURFMATLC-1965-2008-JACOBSON 
+ Atlantic surfclam 
+ Source: RAMLDB 
+ Region: US East Coast , Mid-Atlantic Coast 
+ Catch data used from years 1965 - 2008 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1973 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 38.2 - 612
+
+ Results of CMSY analysis with altogether 6070 viable trajectories for 1001 r-k pairs 
+ r = 0.566 , 95% CL = 0.407 - 0.785 , k = 156 , 95% CL = 103 - 237 
+ MSY = 22.1 , 95% CL = 18.6 - 26.3 
+ Relative biomass last year = 0.528 k, 2.5th = 0.242 , 97.5th = 0.598 
+ Exploitation F/(r/2) in last year = 0.964 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.283 , 95% CL = 0.204 - 0.392 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.283 , 95% CL = 0.204 - 0.392 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 22.1 ,  95% CL = 18.6 - 26.3 
+ Bmsy = 78.2 ,  95% CL = 51.6 - 119 
+ Biomass in last year  = 82.5 , 2.5th perc = 37.8 , 97.5 perc = 93.5 
+ B/Bmsy in last year   = 1.06 , 2.5th perc = 0.484 , 97.5 perc = 1.2 
+ Fishing mortality in last year = 0.272 , 2.5th perc = 0.24 , 97.5 perc = 0.594 
+ F/Fmsy  = 0.964 , 2.5th perc = 0.85 , 97.5 perc = 2.1 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Lopholatilus chamaeleonticeps , stock: NEFSC-TILEMATLC-1915-2012-HIVELY 
+ Tilefish 
+ Source: RAMLDB 
+ Region: US East Coast , Mid-Atlantic Coast 
+ Catch data used from years 1915 - 2012 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1980 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 7.57 - 303
+
+ Results of CMSY analysis with altogether 945 viable trajectories for 664 r-k pairs 
+ r = 0.0611 , 95% CL = 0.0554 - 0.0674 , k = 54.1 , 95% CL = 49.6 - 59 
+ MSY = 0.826 , 95% CL = 0.787 - 0.867 
+ Relative biomass last year = 0.0455 k, 2.5th = 0.0119 , 97.5th = 0.151 
+ Exploitation F/(r/2) in last year = 11.1 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.0306 , 95% CL = 0.0277 - 0.0337 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.00556 , 95% CL = 0.00504 - 0.00614 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.826 ,  95% CL = 0.787 - 0.867 
+ Bmsy = 27 ,  95% CL = 24.8 - 29.5 
+ Biomass in last year  = 2.46 , 2.5th perc = 0.641 , 97.5 perc = 8.18 
+ B/Bmsy in last year   = 0.091 , 2.5th perc = 0.0237 , 97.5 perc = 0.303 
+ Fishing mortality in last year = 0.339 , 2.5th perc = 0.102 , 97.5 perc = 1.3 
+ F/Fmsy  = 61 , 2.5th perc = 18.3 , 97.5 perc = 234 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Urophycis tenuis , stock: NEFSC-WHAKEGBGOM-1963-2007-SOSEBEE 
+ White hake 
+ Source: RAMLDB 
+ Region: US East Coast , Gulf of Maine / Georges Bank 
+ Catch data used from years 1963 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1992 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 20.8 - 831
+
+ Results of CMSY analysis with altogether 5032 viable trajectories for 2407 r-k pairs 
+ r = 0.258 , 95% CL = 0.146 - 0.456 , k = 99.2 , 95% CL = 53.3 - 184 
+ MSY = 6.4 , 95% CL = 5.23 - 7.82 
+ Relative biomass last year = 0.173 k, 2.5th = 0.0156 , 97.5th = 0.298 
+ Exploitation F/(r/2) in last year = 0.995 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.129 , 95% CL = 0.0729 - 0.228 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0895 , 95% CL = 0.0506 - 0.158 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 6.4 ,  95% CL = 5.23 - 7.82 
+ Bmsy = 49.6 ,  95% CL = 26.7 - 92.2 
+ Biomass in last year  = 17.2 , 2.5th perc = 1.55 , 97.5 perc = 29.5 
+ B/Bmsy in last year   = 0.347 , 2.5th perc = 0.0313 , 97.5 perc = 0.595 
+ Fishing mortality in last year = 0.128 , 2.5th perc = 0.0748 , 97.5 perc = 1.42 
+ F/Fmsy  = 1.43 , 2.5th perc = 0.836 , 97.5 perc = 15.9 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Pseudopleuronectes americanus , stock: NEFSC-WINFLOUN5Z-1964-2011-HIVELY 
+ Winter flounder 
+ Source: RAMLDB 
+ Region: US East Coast , Georges Bank 
+ Catch data used from years 1964 - 2010 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1995 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 4.984167 - 79.74667
+
+ Results of CMSY analysis with altogether 1734 viable trajectories for 1419 r-k pairs 
+ r = 0.405 , 95% CL = 0.283 - 0.578 , k = 28.8 , 95% CL = 22 - 37.7 
+ MSY = 2.91 , 95% CL = 2.67 - 3.18 
+ Relative biomass last year = 0.304 k, 2.5th = 0.0253 , 97.5th = 0.398 
+ Exploitation F/(r/2) in last year = 0.871 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.202 , 95% CL = 0.142 - 0.289 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.202 , 95% CL = 0.142 - 0.289 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 2.91 ,  95% CL = 2.67 - 3.18 
+ Bmsy = 14.4 ,  95% CL = 11 - 18.8 
+ Biomass in last year  = 8.76 , 2.5th perc = 0.728 , 97.5 perc = 11.5 
+ B/Bmsy in last year   = 0.608 , 2.5th perc = 0.0506 , 97.5 perc = 0.796 
+ Fishing mortality in last year = 0.176 , 2.5th perc = 0.135 , 97.5 perc = 2.12 
+ F/Fmsy  = 0.871 , 2.5th perc = 0.666 , 97.5 perc = 10.5 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Pseudopleuronectes americanus , stock: NEFSC-WINFLOUNSNEMATL-1980-2010-HIVELY 
+ Winter flounder 
+ Source: RAMLDB 
+ Region: US East Coast , Southern New England /Mid Atlantic 
+ Catch data used from years 1981 - 2010 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 2006 default 
+ Prior final relative biomass   = 0.01 - 0.1 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 19.7 - 315
+
+ Results of CMSY analysis with altogether 1278 viable trajectories for 1246 r-k pairs 
+ r = 0.401 , 95% CL = 0.237 - 0.676 , k = 170 , 95% CL = 94.3 - 307 
+ MSY = 17 , 95% CL = 8.22 - 35.2 
+ Relative biomass last year = 0.0467 k, 2.5th = 0.0113 , 97.5th = 0.0962 
+ Exploitation F/(r/2) in last year = 0.229 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.2 , 95% CL = 0.119 - 0.338 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0374 , 95% CL = 0.0221 - 0.0631 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 17 ,  95% CL = 8.22 - 35.2 
+ Bmsy = 85 ,  95% CL = 47.1 - 153 
+ Biomass in last year  = 7.93 , 2.5th perc = 1.93 , 97.5 perc = 16.4 
+ B/Bmsy in last year   = 0.0933 , 2.5th perc = 0.0227 , 97.5 perc = 0.192 
+ Fishing mortality in last year = 0.0458 , 2.5th perc = 0.0222 , 97.5 perc = 0.188 
+ F/Fmsy  = 1.22 , 2.5th perc = 0.594 , 97.5 perc = 5.04 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Glyptocephalus cynoglossus , stock: NEFSC-WITFLOUN5Y-1982-2008-WIGLEY 
+ Witch flounder 
+ Source: RAMLDB 
+ Region: US East Coast , Gulf of Maine 
+ Catch data used from years 1982 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1990 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 12.7 - 510
+
+ Results of CMSY analysis with altogether 6620 viable trajectories for 4162 r-k pairs 
+ r = 0.225 , 95% CL = 0.122 - 0.417 , k = 79.1 , 95% CL = 33 - 190 
+ MSY = 4.46 , 95% CL = 2.04 - 9.74 
+ Relative biomass last year = 0.188 k, 2.5th = 0.0168 , 97.5th = 0.296 
+ Exploitation F/(r/2) in last year = 0.698 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.113 , 95% CL = 0.0609 - 0.208 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0849 , 95% CL = 0.0459 - 0.157 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 4.46 ,  95% CL = 2.04 - 9.74 
+ Bmsy = 39.5 ,  95% CL = 16.5 - 94.8 
+ Biomass in last year  = 14.9 , 2.5th perc = 1.32 , 97.5 perc = 23.4 
+ B/Bmsy in last year   = 0.377 , 2.5th perc = 0.0335 , 97.5 perc = 0.592 
+ Fishing mortality in last year = 0.0787 , 2.5th perc = 0.05 , 97.5 perc = 0.884 
+ F/Fmsy  = 0.927 , 2.5th perc = 0.589 , 97.5 perc = 10.4 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Limanda ferruginea , stock: NEFSC-YELLCCODGOM-1935-2008-LEGAULT 
+ Yellowtail flounder 
+ Source: RAMLDB 
+ Region: US East Coast , Cape Cod / Gulf of Maine 
+ Catch data used from years 1935 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1979 default 
+ Prior final relative biomass   = 0.01 - 0.2 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 6.49 - 104
+
+ Results of CMSY analysis with altogether 1242 viable trajectories for 822 r-k pairs 
+ r = 0.361 , 95% CL = 0.264 - 0.493 , k = 28.7 , 95% CL = 22.7 - 36.3 
+ MSY = 2.59 , 95% CL = 2.37 - 2.83 
+ Relative biomass last year = 0.106 k, 2.5th = 0.0128 , 97.5th = 0.195 
+ Exploitation F/(r/2) in last year = 1.14 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.18 , 95% CL = 0.132 - 0.247 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0765 , 95% CL = 0.0559 - 0.105 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 2.59 ,  95% CL = 2.37 - 2.83 
+ Bmsy = 14.3 ,  95% CL = 11.3 - 18.2 
+ Biomass in last year  = 3.04 , 2.5th perc = 0.367 , 97.5 perc = 5.61 
+ B/Bmsy in last year   = 0.212 , 2.5th perc = 0.0256 , 97.5 perc = 0.391 
+ Fishing mortality in last year = 0.206 , 2.5th perc = 0.112 , 97.5 perc = 1.71 
+ F/Fmsy  = 2.69 , 2.5th perc = 1.46 , 97.5 perc = 22.4 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Limanda ferruginea , stock: NEFSC-YELLGB-1935-2008-BAUM 
+ Yellowtail flounder 
+ Source: RAMLDB 
+ Region: US East Coast , Georges Bank 
+ Catch data used from years 1935 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1969 default 
+ Prior final relative biomass   = 0.01 - 0.2 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 25.4 - 407
+
+ Results of CMSY analysis with altogether 416 viable trajectories for 384 r-k pairs 
+ r = 0.346 , 95% CL = 0.275 - 0.434 , k = 143 , 95% CL = 110 - 185 
+ MSY = 12.3 , 95% CL = 10.5 - 14.5 
+ Relative biomass last year = 0.0937 k, 2.5th = 0.0162 , 97.5th = 0.188 
+ Exploitation F/(r/2) in last year = 0.73 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.173 , 95% CL = 0.138 - 0.217 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0647 , 95% CL = 0.0515 - 0.0813 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 12.3 ,  95% CL = 10.5 - 14.5 
+ Bmsy = 71.4 ,  95% CL = 55 - 92.5 
+ Biomass in last year  = 13.4 , 2.5th perc = 2.31 , 97.5 perc = 26.9 
+ B/Bmsy in last year   = 0.187 , 2.5th perc = 0.0323 , 97.5 perc = 0.377 
+ Fishing mortality in last year = 0.126 , 2.5th perc = 0.0627 , 97.5 perc = 0.731 
+ F/Fmsy  = 1.95 , 2.5th perc = 0.969 , 97.5 perc = 11.3 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Limanda ferruginea , stock: NEFSC-YELLSNEMATL-1935-2008-BAUM 
+ Yellowtail flounder 
+ Source: RAMLDB 
+ Region: US East Coast , Southern New England /Mid Atlantic 
+ Catch data used from years 1935 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1995 default 
+ Prior final relative biomass   = 0.01 - 0.1 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 48 - 768
+
+ Results of CMSY analysis with altogether 419 viable trajectories for 388 r-k pairs 
+ r = 0.333 , 95% CL = 0.26 - 0.427 , k = 229 , 95% CL = 179 - 291 
+ MSY = 19 , 95% CL = 16.4 - 22.1 
+ Relative biomass last year = 0.035 k, 2.5th = 0.0113 , 97.5th = 0.0967 
+ Exploitation F/(r/2) in last year = 0.297 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.166 , 95% CL = 0.13 - 0.213 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0233 , 95% CL = 0.0182 - 0.0299 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 19 ,  95% CL = 16.4 - 22.1 
+ Bmsy = 114 ,  95% CL = 89.6 - 146 
+ Biomass in last year  = 8.01 , 2.5th perc = 2.58 , 97.5 perc = 22.1 
+ B/Bmsy in last year   = 0.0701 , 2.5th perc = 0.0226 , 97.5 perc = 0.193 
+ Fishing mortality in last year = 0.0494 , 2.5th perc = 0.0179 , 97.5 perc = 0.154 
+ F/Fmsy  = 2.12 , 2.5th perc = 0.768 , 97.5 perc = 6.58 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Kajikia audax , stock: NMFS-STMARLINNPAC-1952-2004-BRANCH 
+ Striped marlin 
+ Source: RAMLDB 
+ Region: Pacific Ocean , North Pacific 
+ Catch data used from years 1952 - 2004 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1969 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 19.1 - 306
+
+ Results of CMSY analysis with altogether 1529 viable trajectories for 893 r-k pairs 
+ r = 0.375 , 95% CL = 0.282 - 0.5 , k = 108 , 95% CL = 85.2 - 137 
+ MSY = 10.1 , 95% CL = 9.42 - 10.9 
+ Relative biomass last year = 0.147 k, 2.5th = 0.0179 , 97.5th = 0.291 
+ Exploitation F/(r/2) in last year = 1.33 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.188 , 95% CL = 0.141 - 0.25 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.11 , 95% CL = 0.0828 - 0.147 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 10.1 ,  95% CL = 9.42 - 10.9 
+ Bmsy = 54 ,  95% CL = 42.6 - 68.4 
+ Biomass in last year  = 15.9 , 2.5th perc = 1.93 , 97.5 perc = 31.4 
+ B/Bmsy in last year   = 0.294 , 2.5th perc = 0.0358 , 97.5 perc = 0.582 
+ Fishing mortality in last year = 0.249 , 2.5th perc = 0.126 , 97.5 perc = 2.05 
+ F/Fmsy  = 2.26 , 2.5th perc = 1.14 , 97.5 perc = 18.6 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Atheresthes stomias , stock: NWFSC-ARFLOUNDPCOAST-1916-2007-BRANCH 
+ Arrowtooth flounder 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1928 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1990 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 13.8 - 551
+
+ Results of CMSY analysis with altogether 3075 viable trajectories for 438 r-k pairs 
+ r = 0.273 , 95% CL = 0.158 - 0.469 , k = 56 , 95% CL = 30.2 - 104 
+ MSY = 3.81 , 95% CL = 3.16 - 4.6 
+ Relative biomass last year = 0.193 k, 2.5th = 0.0184 , 97.5th = 0.297 
+ Exploitation F/(r/2) in last year = 1.62 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.136 , 95% CL = 0.0792 - 0.234 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.105 , 95% CL = 0.0612 - 0.181 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 3.81 ,  95% CL = 3.16 - 4.6 
+ Bmsy = 28 ,  95% CL = 15.1 - 51.9 
+ Biomass in last year  = 10.8 , 2.5th perc = 1.03 , 97.5 perc = 16.6 
+ B/Bmsy in last year   = 0.386 , 2.5th perc = 0.0369 , 97.5 perc = 0.595 
+ Fishing mortality in last year = 0.22 , 2.5th perc = 0.143 , 97.5 perc = 2.31 
+ F/Fmsy  = 2.09 , 2.5th perc = 1.36 , 97.5 perc = 21.9 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Sebastes melanostomus , stock: NWFSC-BGROCKPCOAST-1950-2011-STACHURA 
+ Blackgill rockfish 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1950 - 2010 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1987 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.015 - 0.1 default , prior range for k  = 9.59 - 256
+
+ Results of CMSY analysis with altogether 7265 viable trajectories for 1500 r-k pairs 
+ r = 0.062 , 95% CL = 0.0397 - 0.097 , k = 13.5 , 95% CL = 7.32 - 25 
+ MSY = 0.21 , 95% CL = 0.151 - 0.292 
+ Relative biomass last year = 0.148 k, 2.5th = 0.0143 , 97.5th = 0.297 
+ Exploitation F/(r/2) in last year = 2.39 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.031 , 95% CL = 0.0198 - 0.0485 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0184 , 95% CL = 0.0118 - 0.0287 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.21 ,  95% CL = 0.151 - 0.292 
+ Bmsy = 6.77 ,  95% CL = 3.66 - 12.5 
+ Biomass in last year  = 2.01 , 2.5th perc = 0.194 , 97.5 perc = 4.02 
+ B/Bmsy in last year   = 0.296 , 2.5th perc = 0.0286 , 97.5 perc = 0.594 
+ Fishing mortality in last year = 0.0742 , 2.5th perc = 0.037 , 97.5 perc = 0.767 
+ F/Fmsy  = 4.04 , 2.5th perc = 2.01 , 97.5 perc = 41.7 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Sebastes melanops , stock: NWFSC-BLACKROCKNPCOAST-1914-2006-BRANCH 
+ Black rockfish 
+ Source: RAMLDB 
+ Region: US West Coast , Northern Pacific Coast 
+ Catch data used from years 1939 - 2006 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1987 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 1.36 - 54.5
+
+ Results of CMSY analysis with altogether 9458 viable trajectories for 1495 r-k pairs 
+ r = 0.278 , 95% CL = 0.162 - 0.478 , k = 5.54 , 95% CL = 2.9 - 10.6 
+ MSY = 0.385 , 95% CL = 0.313 - 0.474 
+ Relative biomass last year = 0.299 k, 2.5th = 0.0197 , 97.5th = 0.397 
+ Exploitation F/(r/2) in last year = 1.4 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.139 , 95% CL = 0.0809 - 0.239 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.139 , 95% CL = 0.0809 - 0.239 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.385 ,  95% CL = 0.313 - 0.474 
+ Bmsy = 2.77 ,  95% CL = 1.45 - 5.29 
+ Biomass in last year  = 1.66 , 2.5th perc = 0.109 , 97.5 perc = 2.2 
+ B/Bmsy in last year   = 0.598 , 2.5th perc = 0.0394 , 97.5 perc = 0.793 
+ Fishing mortality in last year = 0.195 , 2.5th perc = 0.147 , 97.5 perc = 2.96 
+ F/Fmsy  = 1.4 , 2.5th perc = 1.06 , 97.5 perc = 21.3 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Scorpaenichthys marmoratus , stock: NWFSC-CABEZORECOAST-1973-2009-STACHURA 
+ Cabezon 
+ Source: RAMLDB 
+ Region: US West Coast , Oregon Coast 
+ Catch data used from years 1973 - 2008 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 2001 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 0.072 - 1.15
+
+ Results of CMSY analysis with altogether 1178 viable trajectories for 420 r-k pairs 
+ r = 0.539 , 95% CL = 0.37 - 0.786 , k = 0.276 , 95% CL = 0.184 - 0.413 
+ MSY = 0.0372 , 95% CL = 0.032 - 0.0433 
+ Relative biomass last year = 0.246 k, 2.5th = 0.203 , 97.5th = 0.417 
+ Exploitation F/(r/2) in last year = 2.36 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.27 , 95% CL = 0.185 - 0.393 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.265 , 95% CL = 0.182 - 0.387 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.0372 ,  95% CL = 0.032 - 0.0433 
+ Bmsy = 0.138 ,  95% CL = 0.0922 - 0.207 
+ Biomass in last year  = 0.0679 , 2.5th perc = 0.0561 , 97.5 perc = 0.115 
+ B/Bmsy in last year   = 0.492 , 2.5th perc = 0.406 , 97.5 perc = 0.835 
+ Fishing mortality in last year = 0.637 , 2.5th perc = 0.375 , 97.5 perc = 0.771 
+ F/Fmsy  = 2.4 , 2.5th perc = 1.41 , 97.5 perc = 2.91 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Sebastes pinniger , stock: NWFSC-CROCKPCOAST-1916-2011-STACHURA 
+ Canary rockfish 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1916 - 2010 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1982 default 
+ Prior final relative biomass   = 0.01 - 0.1 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 9.38 - 375
+
+ Results of CMSY analysis with altogether 4008 viable trajectories for 1142 r-k pairs 
+ r = 0.236 , 95% CL = 0.131 - 0.425 , k = 35.9 , 95% CL = 19.8 - 65.2 
+ MSY = 2.12 , 95% CL = 1.72 - 2.61 
+ Relative biomass last year = 0.0442 k, 2.5th = 0.0117 , 97.5th = 0.0962 
+ Exploitation F/(r/2) in last year = 0.437 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.118 , 95% CL = 0.0654 - 0.212 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0209 , 95% CL = 0.0116 - 0.0376 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 2.12 ,  95% CL = 1.72 - 2.61 
+ Bmsy = 18 ,  95% CL = 9.9 - 32.6 
+ Biomass in last year  = 1.59 , 2.5th perc = 0.42 , 97.5 perc = 3.46 
+ B/Bmsy in last year   = 0.0885 , 2.5th perc = 0.0234 , 97.5 perc = 0.192 
+ Fishing mortality in last year = 0.0515 , 2.5th perc = 0.0237 , 97.5 perc = 0.195 
+ F/Fmsy  = 2.47 , 2.5th perc = 1.13 , 97.5 perc = 9.34 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Parophrys vetulus , stock: NWFSC-ESOLEPCOAST-1876-2007-BRANCH 
+ English sole 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1876 - 2006 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1967 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 6.74 - 108
+
+ Results of CMSY analysis with altogether 820 viable trajectories for 620 r-k pairs 
+ r = 0.373 , 95% CL = 0.304 - 0.456 , k = 42 , 95% CL = 33.6 - 52.6 
+ MSY = 3.91 , 95% CL = 3.74 - 4.1 
+ Relative biomass last year = 0.11 k, 2.5th = 0.0155 , 97.5th = 0.283 
+ Exploitation F/(r/2) in last year = 1.26 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.186 , 95% CL = 0.152 - 0.228 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0817 , 95% CL = 0.0667 - 0.0999 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 3.91 ,  95% CL = 3.74 - 4.1 
+ Bmsy = 21 ,  95% CL = 16.8 - 26.3 
+ Biomass in last year  = 4.61 , 2.5th perc = 0.65 , 97.5 perc = 11.9 
+ B/Bmsy in last year   = 0.219 , 2.5th perc = 0.0309 , 97.5 perc = 0.567 
+ Fishing mortality in last year = 0.234 , 2.5th perc = 0.0905 , 97.5 perc = 1.66 
+ F/Fmsy  = 2.86 , 2.5th perc = 1.11 , 97.5 perc = 20.3 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Hexagrammos decagrammus , stock: NWFSC-KELPGREENLINGORECOAST-1979-2005-STANTON 
+ Kelp greenling 
+ Source: RAMLDB 
+ Region: US West Coast , Oregon Coast 
+ Catch data used from years 1980 - 2004 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 2000 default 
+ Prior final relative biomass   = 0.4 - 0.8 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 0.169 - 4.05
+
+ Results of CMSY analysis with altogether 24864 viable trajectories for 3189 r-k pairs 
+ r = 0.566 , 95% CL = 0.407 - 0.785 , k = 0.361 , 95% CL = 0.199 - 0.654 
+ MSY = 0.051 , 95% CL = 0.0302 - 0.0861 
+ Relative biomass last year = 0.632 k, 2.5th = 0.414 , 97.5th = 0.776 
+ Exploitation F/(r/2) in last year = 0.803 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.283 , 95% CL = 0.204 - 0.392 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.283 , 95% CL = 0.204 - 0.392 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.051 ,  95% CL = 0.0302 - 0.0861 
+ Bmsy = 0.18 ,  95% CL = 0.0995 - 0.327 
+ Biomass in last year  = 0.228 , 2.5th perc = 0.149 , 97.5 perc = 0.28 
+ B/Bmsy in last year   = 1.26 , 2.5th perc = 0.827 , 97.5 perc = 1.55 
+ Fishing mortality in last year = 0.227 , 2.5th perc = 0.185 , 97.5 perc = 0.347 
+ F/Fmsy  = 0.803 , 2.5th perc = 0.654 , 97.5 perc = 1.23 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Ophiodon elongatus , stock: NWFSC-LINGCODNPCOAST-1928-2009-STACHURA 
+ Lingcod 
+ Source: RAMLDB 
+ Region: US West Coast , Northern Pacific Coast 
+ Catch data used from years 1928 - 2008 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1984 default 
+ Prior final relative biomass   = 0.01 - 0.2 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 6.7 - 268
+
+ Results of CMSY analysis with altogether 3885 viable trajectories for 929 r-k pairs 
+ r = 0.268 , 95% CL = 0.154 - 0.469 , k = 23.1 , 95% CL = 12.5 - 42.8 
+ MSY = 1.55 , 95% CL = 1.27 - 1.89 
+ Relative biomass last year = 0.0819 k, 2.5th = 0.0126 , 97.5th = 0.192 
+ Exploitation F/(r/2) in last year = 1.38 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.134 , 95% CL = 0.0769 - 0.234 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.044 , 95% CL = 0.0252 - 0.0768 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 1.55 ,  95% CL = 1.27 - 1.89 
+ Bmsy = 11.5 ,  95% CL = 6.23 - 21.4 
+ Biomass in last year  = 1.89 , 2.5th perc = 0.291 , 97.5 perc = 4.43 
+ B/Bmsy in last year   = 0.164 , 2.5th perc = 0.0252 , 97.5 perc = 0.383 
+ Fishing mortality in last year = 0.185 , 2.5th perc = 0.079 , 97.5 perc = 1.2 
+ F/Fmsy  = 4.21 , 2.5th perc = 1.8 , 97.5 perc = 27.4 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Ophiodon elongatus , stock: NWFSC-LINGCODSPCOAST-1928-2009-STACHURA 
+ Lingcod 
+ Source: RAMLDB 
+ Region: US West Coast , Southern Pacific Coast 
+ Catch data used from years 1928 - 2008 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1980 default 
+ Prior final relative biomass   = 0.01 - 0.2 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 5.1 - 204
+
+ Results of CMSY analysis with altogether 2841 viable trajectories for 784 r-k pairs 
+ r = 0.239 , 95% CL = 0.138 - 0.416 , k = 23.7 , 95% CL = 13.2 - 42.6 
+ MSY = 1.42 , 95% CL = 1.18 - 1.7 
+ Relative biomass last year = 0.0921 k, 2.5th = 0.0128 , 97.5th = 0.193 
+ Exploitation F/(r/2) in last year = 0.655 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.12 , 95% CL = 0.0688 - 0.208 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0441 , 95% CL = 0.0253 - 0.0767 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 1.42 ,  95% CL = 1.18 - 1.7 
+ Bmsy = 11.8 ,  95% CL = 6.58 - 21.3 
+ Biomass in last year  = 2.18 , 2.5th perc = 0.303 , 97.5 perc = 4.58 
+ B/Bmsy in last year   = 0.184 , 2.5th perc = 0.0256 , 97.5 perc = 0.387 
+ Fishing mortality in last year = 0.0784 , 2.5th perc = 0.0373 , 97.5 perc = 0.564 
+ F/Fmsy  = 1.78 , 2.5th perc = 0.847 , 97.5 perc = 12.8 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Raja rhina , stock: NWFSC-LNOSESKAPCOAST-1915-2007-BRANCH 
+ Longnose skate 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1916 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1982 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 4.7 - 188
+
+ Results of CMSY analysis with altogether 2680 viable trajectories for 565 r-k pairs 
+ r = 0.312 , 95% CL = 0.199 - 0.49 , k = 13.6 , 95% CL = 5.25 - 35.1 
+ MSY = 1.06 , 95% CL = 0.839 - 1.34 
+ Relative biomass last year = 0.269 k, 2.5th = 0.023 , 97.5th = 0.393 
+ Exploitation F/(r/2) in last year = 1.58 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.156 , 95% CL = 0.0993 - 0.245 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.156 , 95% CL = 0.0993 - 0.245 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 1.06 ,  95% CL = 0.839 - 1.34 
+ Bmsy = 6.79 ,  95% CL = 2.63 - 17.6 
+ Biomass in last year  = 3.65 , 2.5th perc = 0.312 , 97.5 perc = 5.34 
+ B/Bmsy in last year   = 0.537 , 2.5th perc = 0.046 , 97.5 perc = 0.786 
+ Fishing mortality in last year = 0.246 , 2.5th perc = 0.169 , 97.5 perc = 2.88 
+ F/Fmsy  = 1.58 , 2.5th perc = 1.08 , 97.5 perc = 18.5 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Sebastolobus altivelis , stock: NWFSC-LSTHORNHPCOAST-1964-2012-HIVELY 
+ Longspine thornyhead 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1964 - 2012 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1994 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 10.3 - 413
+
+ Results of CMSY analysis with altogether 6746 viable trajectories for 1870 r-k pairs 
+ r = 0.278 , 95% CL = 0.162 - 0.478 , k = 33.2 , 95% CL = 16.5 - 66.7 
+ MSY = 2.31 , 95% CL = 1.7 - 3.13 
+ Relative biomass last year = 0.124 k, 2.5th = 0.0131 , 97.5th = 0.293 
+ Exploitation F/(r/2) in last year = 1.53 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.139 , 95% CL = 0.0809 - 0.239 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0688 , 95% CL = 0.04 - 0.118 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 2.31 ,  95% CL = 1.7 - 3.13 
+ Bmsy = 16.6 ,  95% CL = 8.26 - 33.4 
+ Biomass in last year  = 4.11 , 2.5th perc = 0.435 , 97.5 perc = 9.72 
+ B/Bmsy in last year   = 0.247 , 2.5th perc = 0.0262 , 97.5 perc = 0.586 
+ Fishing mortality in last year = 0.212 , 2.5th perc = 0.0896 , 97.5 perc = 2 
+ F/Fmsy  = 3.08 , 2.5th perc = 1.3 , 97.5 perc = 29.1 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Merluccius productus , stock: NWFSC-PHAKEPCOAST-1966-2012-CHING 
+ Pacific hake 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1966 - 2011 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 2005 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 709 - 28362
+
+ Results of CMSY analysis with altogether 8514 viable trajectories for 1777 r-k pairs 
+ r = 0.282 , 95% CL = 0.163 - 0.487 , k = 3582 , 95% CL = 1829 - 7015 
+ MSY = 253 , 95% CL = 197 - 324 
+ Relative biomass last year = 0.419 k, 2.5th = 0.216 , 97.5th = 0.553 
+ Exploitation F/(r/2) in last year = 1.35 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 253 ,  95% CL = 197 - 324 
+ Bmsy = 1791 ,  95% CL = 914 - 3508 
+ Biomass in last year  = 1500 , 2.5th perc = 775 , 97.5 perc = 1982 
+ B/Bmsy in last year   = 0.838 , 2.5th perc = 0.432 , 97.5 perc = 1.11 
+ Fishing mortality in last year = 0.191 , 2.5th perc = 0.144 , 97.5 perc = 0.369 
+ F/Fmsy  = 1.35 , 2.5th perc = 1.02 , 97.5 perc = 2.62 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Anoplopoma fimbria , stock: NWFSC-SABLEFPCOAST-1900-2011-STACHURA 
+ Sablefish 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1900 - 2010 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1983 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 35.1 - 1403
+
+ Results of CMSY analysis with altogether 5663 viable trajectories for 992 r-k pairs 
+ r = 0.236 , 95% CL = 0.124 - 0.45 , k = 163 , 95% CL = 91.1 - 292 
+ MSY = 9.61 , 95% CL = 8 - 11.5 
+ Relative biomass last year = 0.305 k, 2.5th = 0.022 , 97.5th = 0.397 
+ Exploitation F/(r/2) in last year = 1.25 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.118 , 95% CL = 0.0618 - 0.225 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.118 , 95% CL = 0.0618 - 0.225 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 9.61 ,  95% CL = 8 - 11.5 
+ Bmsy = 81.5 ,  95% CL = 45.5 - 146 
+ Biomass in last year  = 49.7 , 2.5th perc = 3.59 , 97.5 perc = 64.7 
+ B/Bmsy in last year   = 0.61 , 2.5th perc = 0.0441 , 97.5 perc = 0.793 
+ Fishing mortality in last year = 0.148 , 2.5th perc = 0.114 , 97.5 perc = 2.04 
+ F/Fmsy  = 1.25 , 2.5th perc = 0.963 , 97.5 perc = 17.3 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Sebastolobus alascanus , stock: NWFSC-SSTHORNHPCOAST-1901-2005-STANTON 
+ Shortspine thornyhead 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1962 - 2004 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1990 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.015 - 0.1 default , prior range for k  = 41.9 - 1118
+
+ Results of CMSY analysis with altogether 13792 viable trajectories for 4967 r-k pairs 
+ r = 0.062 , 95% CL = 0.0397 - 0.097 , k = 117 , 95% CL = 54.2 - 254 
+ MSY = 1.82 , 95% CL = 0.961 - 3.44 
+ Relative biomass last year = 0.168 k, 2.5th = 0.0154 , 97.5th = 0.297 
+ Exploitation F/(r/2) in last year = 1.16 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.031 , 95% CL = 0.0198 - 0.0485 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0208 , 95% CL = 0.0133 - 0.0325 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 1.82 ,  95% CL = 0.961 - 3.44 
+ Bmsy = 58.6 ,  95% CL = 27.1 - 127 
+ Biomass in last year  = 19.7 , 2.5th perc = 1.8 , 97.5 perc = 34.8 
+ B/Bmsy in last year   = 0.335 , 2.5th perc = 0.0307 , 97.5 perc = 0.594 
+ Fishing mortality in last year = 0.0359 , 2.5th perc = 0.0203 , 97.5 perc = 0.391 
+ F/Fmsy  = 1.72 , 2.5th perc = 0.973 , 97.5 perc = 18.8 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Sebastes entomelas , stock: NWFSC-WROCKPCOAST-1916-2011-STACHURA 
+ Widow rockfish 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1916 - 2010 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1981 default 
+ Prior final relative biomass   = 0.01 - 0.1 , default 
+ Prior range for r = 0.015 - 0.1 default , prior range for k  = 270 - 7194
+
+ Results of CMSY analysis with altogether 737 viable trajectories for 729 r-k pairs 
+ r = 0.0171 , 95% CL = 0.0164 - 0.0177 , k = 393 , 95% CL = 367 - 421 
+ MSY = 1.68 , 95% CL = 1.58 - 1.78 
+ Relative biomass last year = 0.0256 k, 2.5th = 0.0104 , 97.5th = 0.0709 
+ Exploitation F/(r/2) in last year = 1.77 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.00854 , 95% CL = 0.00822 - 0.00887 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.000874 , 95% CL = 0.000841 - 0.000908 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 1.68 ,  95% CL = 1.58 - 1.78 
+ Bmsy = 197 ,  95% CL = 184 - 210 
+ Biomass in last year  = 10.1 , 2.5th perc = 4.1 , 97.5 perc = 27.9 
+ B/Bmsy in last year   = 0.0512 , 2.5th perc = 0.0208 , 97.5 perc = 0.142 
+ Fishing mortality in last year = 0.0151 , 2.5th perc = 0.00546 , 97.5 perc = 0.0371 
+ F/Fmsy  = 17.3 , 2.5th perc = 6.25 , 97.5 perc = 42.5 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Scorpaenichthys marmoratus , stock: PFMC-CABEZNCAL-1930-2009-CHING 
+ Cabezon 
+ Source: RAMLDB 
+ Region: US West Coast , Northern California 
+ Catch data used from years 1973 - 2008 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 2002 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 0.133 - 2.13
+
+ Results of CMSY analysis with altogether 1200 viable trajectories for 456 r-k pairs 
+ r = 0.55 , 95% CL = 0.385 - 0.786 , k = 0.444 , 95% CL = 0.289 - 0.68 
+ MSY = 0.061 , 95% CL = 0.0491 - 0.0759 
+ Relative biomass last year = 0.0872 k, 2.5th = 0.0138 , 97.5th = 0.335 
+ Exploitation F/(r/2) in last year = 3.67 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.275 , 95% CL = 0.193 - 0.393 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0959 , 95% CL = 0.0672 - 0.137 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.061 ,  95% CL = 0.0491 - 0.0759 
+ Bmsy = 0.222 ,  95% CL = 0.145 - 0.34 
+ Biomass in last year  = 0.0387 , 2.5th perc = 0.00613 , 97.5 perc = 0.149 
+ B/Bmsy in last year   = 0.174 , 2.5th perc = 0.0276 , 97.5 perc = 0.67 
+ Fishing mortality in last year = 1.01 , 2.5th perc = 0.263 , 97.5 perc = 6.36 
+ F/Fmsy  = 10.5 , 2.5th perc = 2.74 , 97.5 perc = 66.3 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Scorpaenichthys marmoratus , stock: PFMC-CABEZSCAL-1930-2009-CHING 
+ Cabezon 
+ Source: RAMLDB 
+ Region: US West Coast , Southern California 
+ Catch data used from years 1950 - 2008 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 2004 default 
+ Prior final relative biomass   = 0.01 - 0.1 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 0.279 - 4.47
+
+ Results of CMSY analysis with altogether 2289 viable trajectories for 807 r-k pairs 
+ r = 0.557 , 95% CL = 0.395 - 0.785 , k = 0.902 , 95% CL = 0.615 - 1.32 
+ MSY = 0.126 , 95% CL = 0.112 - 0.141 
+ Relative biomass last year = 0.0457 k, 2.5th = 0.0121 , 97.5th = 0.0977 
+ Exploitation F/(r/2) in last year = 0.872 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.279 , 95% CL = 0.198 - 0.393 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0509 , 95% CL = 0.0361 - 0.0717 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.126 ,  95% CL = 0.112 - 0.141 
+ Bmsy = 0.451 ,  95% CL = 0.307 - 0.662 
+ Biomass in last year  = 0.0412 , 2.5th perc = 0.0109 , 97.5 perc = 0.0881 
+ B/Bmsy in last year   = 0.0913 , 2.5th perc = 0.0243 , 97.5 perc = 0.195 
+ Fishing mortality in last year = 0.243 , 2.5th perc = 0.113 , 97.5 perc = 0.914 
+ F/Fmsy  = 4.77 , 2.5th perc = 2.23 , 97.5 perc = 18 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Eopsetta jordani , stock: PFMC-PSOLEPCOAST-1930-2011-CHING 
+ Petrale sole 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1930 - 2011 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1949 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 5.45 - 87.2
+
+ Results of CMSY analysis with altogether 679 viable trajectories for 510 r-k pairs 
+ r = 0.309 , 95% CL = 0.25 - 0.381 , k = 33.3 , 95% CL = 28.3 - 39.2 
+ MSY = 2.57 , 95% CL = 2.45 - 2.7 
+ Relative biomass last year = 0.247 k, 2.5th = 0.0249 , 97.5th = 0.296 
+ Exploitation F/(r/2) in last year = 0.767 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.154 , 95% CL = 0.125 - 0.191 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.153 , 95% CL = 0.124 - 0.189 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 2.57 ,  95% CL = 2.45 - 2.7 
+ Bmsy = 16.7 ,  95% CL = 14.2 - 19.6 
+ Biomass in last year  = 8.24 , 2.5th perc = 0.83 , 97.5 perc = 9.87 
+ B/Bmsy in last year   = 0.495 , 2.5th perc = 0.0498 , 97.5 perc = 0.593 
+ Fishing mortality in last year = 0.118 , 2.5th perc = 0.0989 , 97.5 perc = 1.18 
+ F/Fmsy  = 0.775 , 2.5th perc = 0.647 , 97.5 perc = 7.7 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Mycteroperca bonaci , stock: SEFSC-BLACKGROUPERGMSATL-1986-2008-THORSON 
+ Black grouper 
+ Source: RAMLDB 
+ Region: US Southeast/Gulf , Gulf of Mexico and South Atlantic 
+ Catch data used from years 1986 - 2008 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 2001 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 1 - 40.1
+
+ Results of CMSY analysis with altogether 5003 viable trajectories for 2587 r-k pairs 
+ r = 0.243 , 95% CL = 0.127 - 0.466 , k = 5.84 , 95% CL = 2.38 - 14.3 
+ MSY = 0.355 , 95% CL = 0.163 - 0.773 
+ Relative biomass last year = 0.161 k, 2.5th = 0.016 , 97.5th = 0.296 
+ Exploitation F/(r/2) in last year = 1.21 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.121 , 95% CL = 0.0633 - 0.233 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.078 , 95% CL = 0.0406 - 0.15 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.355 ,  95% CL = 0.163 - 0.773 
+ Bmsy = 2.92 ,  95% CL = 1.19 - 7.16 
+ Biomass in last year  = 0.938 , 2.5th perc = 0.0936 , 97.5 perc = 1.73 
+ B/Bmsy in last year   = 0.321 , 2.5th perc = 0.0321 , 97.5 perc = 0.593 
+ Fishing mortality in last year = 0.147 , 2.5th perc = 0.0795 , 97.5 perc = 1.47 
+ F/Fmsy  = 1.88 , 2.5th perc = 1.02 , 97.5 perc = 18.8 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Centropristis striata , stock: SEFSC-BSBASSSATL-1950-2010-HIVELY 
+ Black sea bass 
+ Source: RAMLDB 
+ Region: US Southeast/Gulf , South Atlantic 
+ Catch data used from years 1950 - 2010 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1988 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 1.71 - 27.3
+
+ Results of CMSY analysis with altogether 3129 viable trajectories for 1123 r-k pairs 
+ r = 0.419 , 95% CL = 0.244 - 0.719 , k = 7.82 , 95% CL = 5.9 - 10.4 
+ MSY = 0.819 , 95% CL = 0.745 - 0.902 
+ Relative biomass last year = 0.298 k, 2.5th = 0.0243 , 97.5th = 0.396 
+ Exploitation F/(r/2) in last year = 1.2 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.209 , 95% CL = 0.122 - 0.36 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.209 , 95% CL = 0.122 - 0.36 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.819 ,  95% CL = 0.745 - 0.902 
+ Bmsy = 3.91 ,  95% CL = 2.95 - 5.18 
+ Biomass in last year  = 2.33 , 2.5th perc = 0.19 , 97.5 perc = 3.1 
+ B/Bmsy in last year   = 0.595 , 2.5th perc = 0.0487 , 97.5 perc = 0.792 
+ Fishing mortality in last year = 0.251 , 2.5th perc = 0.189 , 97.5 perc = 3.07 
+ F/Fmsy  = 1.2 , 2.5th perc = 0.901 , 97.5 perc = 14.7 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Mycteroperca microlepis , stock: SEFSC-GAGGM-1963-2012-HIVELY 
+ Gag 
+ Source: RAMLDB 
+ Region: US Southeast/Gulf , Gulf of Mexico 
+ Catch data used from years 1963 - 2012 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 2008 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 2.6 - 104
+
+ Results of CMSY analysis with altogether 2085 viable trajectories for 1110 r-k pairs 
+ r = 0.274 , 95% CL = 0.154 - 0.488 , k = 11.7 , 95% CL = 6.18 - 22.1 
+ MSY = 0.801 , 95% CL = 0.657 - 0.975 
+ Relative biomass last year = 0.15 k, 2.5th = 0.0164 , 97.5th = 0.293 
+ Exploitation F/(r/2) in last year = 0.986 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.137 , 95% CL = 0.0769 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0823 , 95% CL = 0.0462 - 0.147 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.801 ,  95% CL = 0.657 - 0.975 
+ Bmsy = 5.85 ,  95% CL = 3.09 - 11.1 
+ Biomass in last year  = 1.76 , 2.5th perc = 0.191 , 97.5 perc = 3.42 
+ B/Bmsy in last year   = 0.301 , 2.5th perc = 0.0327 , 97.5 perc = 0.585 
+ Fishing mortality in last year = 0.135 , 2.5th perc = 0.0693 , 97.5 perc = 1.24 
+ F/Fmsy  = 1.64 , 2.5th perc = 0.842 , 97.5 perc = 15.1 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Loligo pealeii , stock: SEFSC-LISQUIDATLC-1963-2009-HIVELY 
+ Longfin inshore squid 
+ Source: RAMLDB 
+ Region: US Southeast/Gulf , Atlantic Coast 
+ Catch data used from years 1963 - 2009 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1974 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.6 - 1.5 default , prior range for k  = 24.4 - 244
+
+ Results of CMSY analysis with altogether 126 viable trajectories for 121 r-k pairs 
+ r = 0.914 , 95% CL = 0.645 - 1.29 , k = 91.9 , 95% CL = 73.5 - 115 
+ MSY = 21 , 95% CL = 19.1 - 23.1 
+ Relative biomass last year = 0.225 k, 2.5th = 0.0166 , 97.5th = 0.299 
+ Exploitation F/(r/2) in last year = 1.01 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.457 , 95% CL = 0.323 - 0.647 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.411 , 95% CL = 0.29 - 0.582 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 21 ,  95% CL = 19.1 - 23.1 
+ Bmsy = 45.9 ,  95% CL = 36.8 - 57.4 
+ Biomass in last year  = 20.7 , 2.5th perc = 1.52 , 97.5 perc = 27.4 
+ B/Bmsy in last year   = 0.45 , 2.5th perc = 0.0331 , 97.5 perc = 0.597 
+ Fishing mortality in last year = 0.462 , 2.5th perc = 0.348 , 97.5 perc = 6.28 
+ F/Fmsy  = 1.12 , 2.5th perc = 0.847 , 97.5 perc = 15.3 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Epinephelus morio , stock: SEFSC-RGROUPSATL-1976-2009-HIVELY 
+ Red grouper 
+ Source: RAMLDB 
+ Region: US Southeast/Gulf , South Atlantic 
+ Catch data used from years 1976 - 2008 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1991 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 1.97 - 78.9
+
+ Results of CMSY analysis with altogether 9265 viable trajectories for 4487 r-k pairs 
+ r = 0.225 , 95% CL = 0.132 - 0.385 , k = 11.7 , 95% CL = 4.98 - 27.7 
+ MSY = 0.662 , 95% CL = 0.312 - 1.4 
+ Relative biomass last year = 0.497 k, 2.5th = 0.244 , 97.5th = 0.597 
+ Exploitation F/(r/2) in last year = 1.01 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.113 , 95% CL = 0.066 - 0.192 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.113 , 95% CL = 0.066 - 0.192 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.662 ,  95% CL = 0.312 - 1.4 
+ Bmsy = 5.87 ,  95% CL = 2.49 - 13.9 
+ Biomass in last year  = 5.84 , 2.5th perc = 2.87 , 97.5 perc = 7.01 
+ B/Bmsy in last year   = 0.994 , 2.5th perc = 0.488 , 97.5 perc = 1.19 
+ Fishing mortality in last year = 0.114 , 2.5th perc = 0.0948 , 97.5 perc = 0.232 
+ F/Fmsy  = 1.01 , 2.5th perc = 0.842 , 97.5 perc = 2.06 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Pagrus pagrus , stock: SEFSC-RPORGYSATLC-1972-2012-HIVELY 
+ Common seabream 
+ Source: RAMLDB 
+ Region: US Southeast/Gulf , Southern Atlantic coast 
+ Catch data used from years 1972 - 2011 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 2001 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 1.21 - 19.3
+
+ Results of CMSY analysis with altogether 1913 viable trajectories for 1699 r-k pairs 
+ r = 0.43 , 95% CL = 0.291 - 0.634 , k = 5.37 , 95% CL = 3.87 - 7.46 
+ MSY = 0.577 , 95% CL = 0.487 - 0.683 
+ Relative biomass last year = 0.105 k, 2.5th = 0.0136 , 97.5th = 0.291 
+ Exploitation F/(r/2) in last year = 1.28 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.215 , 95% CL = 0.145 - 0.317 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.09 , 95% CL = 0.061 - 0.133 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.577 ,  95% CL = 0.487 - 0.683 
+ Bmsy = 2.69 ,  95% CL = 1.93 - 3.73 
+ Biomass in last year  = 0.563 , 2.5th perc = 0.0731 , 97.5 perc = 1.56 
+ B/Bmsy in last year   = 0.21 , 2.5th perc = 0.0272 , 97.5 perc = 0.581 
+ Fishing mortality in last year = 0.275 , 2.5th perc = 0.0991 , 97.5 perc = 2.12 
+ F/Fmsy  = 3.05 , 2.5th perc = 1.1 , 97.5 perc = 23.5 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Epinephelus niveatus , stock: SEFSC-SNOWGROUPSATLC-1974-2013-HIVELY 
+ Snowy grouper 
+ Source: RAMLDB 
+ Region: US Southeast/Gulf , Southern Atlantic coast 
+ Catch data used from years 1974 - 2012 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 2008 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.643 - 25.7
+
+ Results of CMSY analysis with altogether 4179 viable trajectories for 2638 r-k pairs 
+ r = 0.25 , 95% CL = 0.135 - 0.463 , k = 3.21 , 95% CL = 1.67 - 6.18 
+ MSY = 0.201 , 95% CL = 0.15 - 0.268 
+ Relative biomass last year = 0.139 k, 2.5th = 0.018 , 97.5th = 0.292 
+ Exploitation F/(r/2) in last year = 1.98 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.125 , 95% CL = 0.0677 - 0.231 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0694 , 95% CL = 0.0375 - 0.128 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.201 ,  95% CL = 0.15 - 0.268 
+ Bmsy = 1.6 ,  95% CL = 0.833 - 3.09 
+ Biomass in last year  = 0.445 , 2.5th perc = 0.0578 , 97.5 perc = 0.938 
+ B/Bmsy in last year   = 0.277 , 2.5th perc = 0.036 , 97.5 perc = 0.584 
+ Fishing mortality in last year = 0.248 , 2.5th perc = 0.118 , 97.5 perc = 1.91 
+ F/Fmsy  = 3.58 , 2.5th perc = 1.7 , 97.5 perc = 27.5 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Scomberomorus maculatus , stock: SEFSC-SPANMACKGM-1886-2011-HIVELY 
+ Spanish mackerel 
+ Source: RAMLDB 
+ Region: US Southeast/Gulf , Gulf of Mexico 
+ Catch data used from years 1948 - 2010 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1997 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 4.59 - 73.4
+
+ Results of CMSY analysis with altogether 304 viable trajectories for 292 r-k pairs 
+ r = 0.313 , 95% CL = 0.248 - 0.397 , k = 28.6 , 95% CL = 23.3 - 35.1 
+ MSY = 2.24 , 95% CL = 1.98 - 2.53 
+ Relative biomass last year = 0.112 k, 2.5th = 0.0153 , 97.5th = 0.288 
+ Exploitation F/(r/2) in last year = 1.13 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.157 , 95% CL = 0.124 - 0.198 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0705 , 95% CL = 0.0557 - 0.0892 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 2.24 ,  95% CL = 1.98 - 2.53 
+ Bmsy = 14.3 ,  95% CL = 11.6 - 17.5 
+ Biomass in last year  = 3.21 , 2.5th perc = 0.437 , 97.5 perc = 8.23 
+ B/Bmsy in last year   = 0.225 , 2.5th perc = 0.0306 , 97.5 perc = 0.576 
+ Fishing mortality in last year = 0.176 , 2.5th perc = 0.0689 , 97.5 perc = 1.3 
+ F/Fmsy  = 2.5 , 2.5th perc = 0.977 , 97.5 perc = 18.4 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Scomberomorus maculatus , stock: SEFSC-SPANMACKSATLC-1950-2012-HIVELY 
+ Spanish mackerel 
+ Source: RAMLDB 
+ Region: US Southeast/Gulf , Southern Atlantic coast 
+ Catch data used from years 1950 - 2011 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1977 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 5.7 - 91.2
+
+ Results of CMSY analysis with altogether 4612 viable trajectories for 1449 r-k pairs 
+ r = 0.477 , 95% CL = 0.36 - 0.632 , k = 20.8 , 95% CL = 15.1 - 28.5 
+ MSY = 2.48 , 95% CL = 2.29 - 2.68 
+ Relative biomass last year = 0.309 k, 2.5th = 0.0496 , 97.5th = 0.397 
+ Exploitation F/(r/2) in last year = 1.26 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.239 , 95% CL = 0.18 - 0.316 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.239 , 95% CL = 0.18 - 0.316 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 2.48 ,  95% CL = 2.29 - 2.68 
+ Bmsy = 10.4 ,  95% CL = 7.57 - 14.2 
+ Biomass in last year  = 6.41 , 2.5th perc = 1.03 , 97.5 perc = 8.24 
+ B/Bmsy in last year   = 0.617 , 2.5th perc = 0.0992 , 97.5 perc = 0.793 
+ Fishing mortality in last year = 0.3 , 2.5th perc = 0.233 , 97.5 perc = 1.86 
+ F/Fmsy  = 1.26 , 2.5th perc = 0.977 , 97.5 perc = 7.82 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Rhomboplites aurorubens , stock: SEFSC-VSNAPSATLC-1946-2008-STANTON 
+ Vermilion snapper 
+ Source: RAMLDB 
+ Region: US Southeast/Gulf , Southern Atlantic coast 
+ Catch data used from years 1958 - 2007 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 2001 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 0.816 - 13.1
+
+ Results of CMSY analysis with altogether 5028 viable trajectories for 728 r-k pairs 
+ r = 0.557 , 95% CL = 0.395 - 0.785 , k = 3 , 95% CL = 2.05 - 4.41 
+ MSY = 0.418 , 95% CL = 0.371 - 0.471 
+ Relative biomass last year = 0.323 k, 2.5th = 0.207 , 97.5th = 0.485 
+ Exploitation F/(r/2) in last year = 1.71 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.279 , 95% CL = 0.198 - 0.393 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.279 , 95% CL = 0.198 - 0.393 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.418 ,  95% CL = 0.371 - 0.471 
+ Bmsy = 1.5 ,  95% CL = 1.02 - 2.2 
+ Biomass in last year  = 0.969 , 2.5th perc = 0.623 , 97.5 perc = 1.46 
+ B/Bmsy in last year   = 0.645 , 2.5th perc = 0.415 , 97.5 perc = 0.97 
+ Fishing mortality in last year = 0.476 , 2.5th perc = 0.316 , 97.5 perc = 0.739 
+ F/Fmsy  = 1.71 , 2.5th perc = 1.14 , 97.5 perc = 2.65 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Epinephelus flavolimbatus , stock: SEFSC-YEGROUPGM-1975-2009-HIVELY 
+ Yellowedge grouper 
+ Source: RAMLDB 
+ Region: US Southeast/Gulf , Gulf of Mexico 
+ Catch data used from years 1975 - 2009 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1983 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 3.22 - 129
+
+ Results of CMSY analysis with altogether 5069 viable trajectories for 2891 r-k pairs 
+ r = 0.243 , 95% CL = 0.129 - 0.457 , k = 8.89 , 95% CL = 4.85 - 16.3 
+ MSY = 0.54 , 95% CL = 0.438 - 0.665 
+ Relative biomass last year = 0.211 k, 2.5th = 0.019 , 97.5th = 0.298 
+ Exploitation F/(r/2) in last year = 1.65 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.121 , 95% CL = 0.0645 - 0.229 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.102 , 95% CL = 0.0544 - 0.193 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.54 ,  95% CL = 0.438 - 0.665 
+ Bmsy = 4.44 ,  95% CL = 2.42 - 8.14 
+ Biomass in last year  = 1.87 , 2.5th perc = 0.169 , 97.5 perc = 2.64 
+ B/Bmsy in last year   = 0.422 , 2.5th perc = 0.038 , 97.5 perc = 0.595 
+ Fishing mortality in last year = 0.201 , 2.5th perc = 0.142 , 97.5 perc = 2.23 
+ F/Fmsy  = 1.96 , 2.5th perc = 1.39 , 97.5 perc = 21.7 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Scomber japonicus , stock: SWFSC-CMACKPCOAST-1929-2008-PINSKY 
+ Chub mackerel 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1929 - 2008 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1990 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 77.7 - 1243
+
+ Results of CMSY analysis with altogether 2729 viable trajectories for 1449 r-k pairs 
+ r = 0.502 , 95% CL = 0.345 - 0.729 , k = 299 , 95% CL = 212 - 422 
+ MSY = 37.5 , 95% CL = 33.7 - 41.8 
+ Relative biomass last year = 0.133 k, 2.5th = 0.0166 , 97.5th = 0.292 
+ Exploitation F/(r/2) in last year = 1.37 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.251 , 95% CL = 0.172 - 0.365 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.134 , 95% CL = 0.092 - 0.195 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 37.5 ,  95% CL = 33.7 - 41.8 
+ Bmsy = 150 ,  95% CL = 106 - 211 
+ Biomass in last year  = 39.9 , 2.5th perc = 4.96 , 97.5 perc = 87.5 
+ B/Bmsy in last year   = 0.267 , 2.5th perc = 0.0332 , 97.5 perc = 0.585 
+ Fishing mortality in last year = 0.344 , 2.5th perc = 0.157 , 97.5 perc = 2.77 
+ F/Fmsy  = 2.57 , 2.5th perc = 1.17 , 97.5 perc = 20.7 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Microstomus pacificus , stock: SWFSC-DSOLEPCOAST-1910-2011-STACHURA 
+ Dover sole 
+ Source: RAMLDB 
+ Region: US West Coast , Pacific Coast 
+ Catch data used from years 1911 - 2010 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 1983 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 50.3 - 2010
+
+ Results of CMSY analysis with altogether 3942 viable trajectories for 1031 r-k pairs 
+ r = 0.209 , 95% CL = 0.113 - 0.387 , k = 266 , 95% CL = 155 - 456 
+ MSY = 13.9 , 95% CL = 11.6 - 16.6 
+ Relative biomass last year = 0.113 k, 2.5th = 0.0128 , 97.5th = 0.378 
+ Exploitation F/(r/2) in last year = 3.62 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.105 , 95% CL = 0.0565 - 0.194 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0471 , 95% CL = 0.0254 - 0.0872 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 13.9 ,  95% CL = 11.6 - 16.6 
+ Bmsy = 133 ,  95% CL = 77.3 - 228 
+ Biomass in last year  = 29.9 , 2.5th perc = 3.4 , 97.5 perc = 100 
+ B/Bmsy in last year   = 0.225 , 2.5th perc = 0.0256 , 97.5 perc = 0.756 
+ Fishing mortality in last year = 0.378 , 2.5th perc = 0.113 , 97.5 perc = 3.32 
+ F/Fmsy  = 8.03 , 2.5th perc = 2.39 , 97.5 perc = 70.6 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Sebastes carnatus , stock: SWFSC-GOPHERSPCOAST-1965-2005-STANTON 
+ Gopher rockfish 
+ Source: RAMLDB 
+ Region: US West Coast , Southern Pacific Coast 
+ Catch data used from years 1965 - 2004 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 1992 default 
+ Prior final relative biomass   = 0.01 - 0.3 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.4 - 16
+
+ Results of CMSY analysis with altogether 3802 viable trajectories for 865 r-k pairs 
+ r = 0.282 , 95% CL = 0.163 - 0.487 , k = 1.25 , 95% CL = 0.633 - 2.46 
+ MSY = 0.0881 , 95% CL = 0.068 - 0.114 
+ Relative biomass last year = 0.197 k, 2.5th = 0.0204 , 97.5th = 0.296 
+ Exploitation F/(r/2) in last year = 1.45 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.111 , 95% CL = 0.0643 - 0.192 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.0881 ,  95% CL = 0.068 - 0.114 
+ Bmsy = 0.624 ,  95% CL = 0.317 - 1.23 
+ Biomass in last year  = 0.245 , 2.5th perc = 0.0255 , 97.5 perc = 0.369 
+ B/Bmsy in last year   = 0.393 , 2.5th perc = 0.0408 , 97.5 perc = 0.592 
+ Fishing mortality in last year = 0.205 , 2.5th perc = 0.136 , 97.5 perc = 1.97 
+ F/Fmsy  = 1.85 , 2.5th perc = 1.23 , 97.5 perc = 17.8 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Platichthys stellatus , stock: SWFSC-STFLOUNNPCOAST-1970-2005-STANTON 
+ Starry flounder 
+ Source: RAMLDB 
+ Region: US West Coast , Northern Pacific Coast 
+ Catch data used from years 1970 - 2004 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 2000 default 
+ Prior final relative biomass   = 0.01 - 0.2 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 1.72 - 27.5
+
+ Results of CMSY analysis with altogether 1352 viable trajectories for 1279 r-k pairs 
+ r = 0.43 , 95% CL = 0.287 - 0.643 , k = 8.11 , 95% CL = 5.46 - 12 
+ MSY = 0.871 , 95% CL = 0.645 - 1.18 
+ Relative biomass last year = 0.0682 k, 2.5th = 0.0109 , 97.5th = 0.189 
+ Exploitation F/(r/2) in last year = 0.875 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.215 , 95% CL = 0.143 - 0.322 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0586 , 95% CL = 0.0391 - 0.0878 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.871 ,  95% CL = 0.645 - 1.18 
+ Bmsy = 4.05 ,  95% CL = 2.73 - 6.02 
+ Biomass in last year  = 0.553 , 2.5th perc = 0.0887 , 97.5 perc = 1.53 
+ B/Bmsy in last year   = 0.136 , 2.5th perc = 0.0219 , 97.5 perc = 0.378 
+ Fishing mortality in last year = 0.188 , 2.5th perc = 0.0678 , 97.5 perc = 1.17 
+ F/Fmsy  = 3.21 , 2.5th perc = 1.16 , 97.5 perc = 20 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Platichthys stellatus , stock: SWFSC-STFLOUNSPCOAST-1970-2005-STANTON 
+ Starry flounder 
+ Source: RAMLDB 
+ Region: US West Coast , Southern Pacific Coast 
+ Catch data used from years 1970 - 2004 , abundance = None 
+ Prior initial relative biomass = 0.2 - 0.6 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 1995 default 
+ Prior final relative biomass   = 0.01 - 0.2 , default 
+ Prior range for r = 0.2 - 0.8 default , prior range for k  = 0.822 - 13.2
+
+ Results of CMSY analysis with altogether 1503 viable trajectories for 1397 r-k pairs 
+ r = 0.41 , 95% CL = 0.255 - 0.659 , k = 4.39 , 95% CL = 3.04 - 6.35 
+ MSY = 0.45 , 95% CL = 0.34 - 0.595 
+ Relative biomass last year = 0.0723 k, 2.5th = 0.0118 , 97.5th = 0.191 
+ Exploitation F/(r/2) in last year = 0.708 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.205 , 95% CL = 0.127 - 0.33 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.0592 , 95% CL = 0.0368 - 0.0952 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.45 ,  95% CL = 0.34 - 0.595 
+ Bmsy = 2.2 ,  95% CL = 1.52 - 3.17 
+ Biomass in last year  = 0.317 , 2.5th perc = 0.0516 , 97.5 perc = 0.838 
+ B/Bmsy in last year   = 0.145 , 2.5th perc = 0.0235 , 97.5 perc = 0.382 
+ Fishing mortality in last year = 0.145 , 2.5th perc = 0.0549 , 97.5 perc = 0.891 
+ F/Fmsy  = 2.45 , 2.5th perc = 0.927 , 97.5 perc = 15.1 
+ Comment: NA 
+ ----------------------------------------------------------
+

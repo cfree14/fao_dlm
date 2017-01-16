@@ -1,0 +1,173 @@
+"assessid","agency1","country","region","area","species","species_common","category","resilience","catch_ts","mprm"
+"INIDEP-PATGRENADIERSARG-1983-2006-Parma","CFP","Argentina","South America","Southern Argentina","Macruronus magellanicus","Patagonian grenadier","Cods, hakes, haddocks","Low","tc",0.891576501796658
+"CSIRO-BIGHTREDSE-1958-2007-FULTON","AFMA","Australia","Australia","Southeast Australia","Centroberyx gerrardi","Bight redfish","Miscellaneous demersal fishes","Very low","tl",2.0348964766164
+"CSIRO-DEEPFLATHEADSE-1978-2007-FULTON","AFMA","Australia","Australia","Southeast Australia","Platycephalus conatus","Deepwater flathead","Miscellaneous coastal fishes","Low","tl",0.622195536198285
+"CSIRO-MORWONGSE-1913-2007-FULTON","AFMA","Australia","Australia","Southeast Australia","Nemadactylus macropterus","Hawaiian morwong","Miscellaneous demersal fishes","Low","tl",1.08256802129449
+"CSIRO-NZLINGESE-1968-2007-FULTON","AFMA","Australia","Australia","Southeast Australia","Genypterus blacodes","New Zealand ling","Miscellaneous demersal fishes","Low","tl",1.29189620836627
+"CSIRO-NZLINGWSE-1968-2007-FULTON","AFMA","Australia","Australia","Western half of Southeast Australia","Genypterus blacodes","New Zealand ling","Miscellaneous demersal fishes","Low","tl",1.10687085176514
+"CSIRO-OROUGHYSE-1978-2007-FULTON","AFMA","Australia","Australia","Southeast Australia","Hoplostethus atlanticus","Orange roughy","Miscellaneous demersal fishes","Very low","tl",0.712042128728039
+"CSIRO-PTOOTHFISHMI-1975-2010-FAY","AFMA","Australia","Australia","Macquarie Island","Dissostichus eleginoides","Patagonian toothfish","Miscellaneous demersal fishes","Low","tc",0.626682651982658
+"CSIRO-SILVERFISHSE-1978-2006-FULTON","AFMA","Australia","Australia","Southeast Australia","Seriolella punctata","Silverfish","Miscellaneous demersal fishes","Medium","tl",1.21044726534132
+"CSIRO-SWHITSE-1945-2007-FULTON","AFMA","Australia","Australia","Southeast Australia","Sillago flindersi","School whiting","Miscellaneous coastal fishes","Medium","tl",0.980444193351369
+"CSIRO-TIGERFLATSE-1913-2006-FULTON","AFMA","Australia","Australia","Southeast Australia","Neoplatycephalus richardsoni","Tiger flathead","Marine fishes not identified","Medium","tl",0.828065694829962
+"CSIRO-WAREHOUESE-1984-2006-FULTON","AFMA","Australia","Australia","Eastern half of Southeast Australia","Seriolella brama","whario","Miscellaneous demersal fishes","Medium","tl",0.732558543664619
+"CSIRO-WAREHOUWSE-1984-2006-FULTON","AFMA","Australia","Australia","Western half of Southeast Australia","Seriolella brama","whario","Miscellaneous demersal fishes","Medium","tl",1.37344873517537
+"DFO-CROCKWCVANISOGQCI-1945-2009-STANTON","DFO","Canada","Canada West Coast","West Coast of Vancouver Island and Straight of Georgia and Queen Charlotte Islands","Sebastes pinniger","Canary rockfish","Miscellaneous demersal fishes","Low","tc",1.3143376658152
+"DFO-MAR-HAD4X5Y-1970-2011-CHING","DFO","Canada","Canada East Coast","Western Scotian Shelf, Bay of Fundy and Gulf of Maine","Melanogrammus aeglefinus","Haddock","Cods, hakes, haddocks","Medium","tl",0.416301709670433
+"DFO-PAC-PCODHS-1956-2005-COLLIE","DFO","Canada","Canada West Coast","Hecate Strait","Gadus macrocephalus","Pacific cod","Cods, hakes, haddocks","Low","tl",0.422811999915865
+"DFO-PAC-PCODWCVANI-1956-2002-COLLIE","DFO","Canada","Canada West Coast","West Coast of Vancouver Island","Gadus macrocephalus","Pacific cod","Cods, hakes, haddocks","Low","tl",0.377132718812517
+"DFO-PAC-SABLEFPCAN-1913-2010-HIVELY","DFO","Canada","Canada West Coast","Pacific Coast of Canada","Anoplopoma fimbria","Sablefish","Miscellaneous demersal fishes","Low","tl",1.2834967237237
+"NIWA-AUSSALMONNZ-1975-2006-JENSEN","MFish","New Zealand","New Zealand","New Zealand","Arripis trutta","Australian salmon","Miscellaneous coastal fishes","Medium","tc",0.620804052138212
+"NIWA-BKCDLFENI-1923-2009-CORDUE","MFish","New Zealand","New Zealand","East coast of North Island","Epigonus telescopus","Black cardinalfish","Miscellaneous demersal fishes","Very low","tc",0.786085506749348
+"NIWA-BLACKOREOPR-1974-2009-CORDUE","MFish","New Zealand","New Zealand","Pukaki Rise","Allocyttus niger","Black oreo","Miscellaneous demersal fishes","Very low","tc",1.56529205269618
+"NIWA-GSTRGZRSTA7-1964-2007-CORDUE","MFish","New Zealand","New Zealand","NZ Area STA7","Kathetostoma giganteum","Giant stargazer","Miscellaneous demersal fishes","Medium","tc",1.87837282999506
+"NIWA-HOKIENZ-1970-2012-CORDUE","MFish","New Zealand","New Zealand","Eastern New Zealand","Macruronus novaezelandiae","Hoki","Cods, hakes, haddocks","Low","tc",0.617280294504741
+"NIWA-HOKIWNZ-1970-2012-CORDUE","MFish","New Zealand","New Zealand","Western New Zealand","Macruronus novaezelandiae","Hoki","Cods, hakes, haddocks","Low","tc",0.542634727244431
+"NIWA-NZLINGLIN3-4-1968-2011-CORDUE","MFish","New Zealand","New Zealand","New Zealand Areas LIN 3 and 4","Genypterus blacodes","New Zealand ling","Miscellaneous demersal fishes","Low","tc",0.769711906092993
+"NIWA-NZLINGLIN5-6-1968-2011-CORDUE","MFish","New Zealand","New Zealand","New Zealand Areas LIN 5 and 6","Genypterus blacodes","New Zealand ling","Miscellaneous demersal fishes","Low","tc",1.18697174273698
+"NIWA-OROUGHYCR-1979-2006-CORDUE","MFish","New Zealand","New Zealand","Chatham Rise","Hoplostethus atlanticus","Orange roughy","Miscellaneous demersal fishes","Very low","tc",0.696710937311045
+"NIWA-OROUGHYNZMEC-1909-2011-CORDUE","MFish","New Zealand","New Zealand","New Zealand Mid East Coast","Hoplostethus atlanticus","Orange roughy","Miscellaneous demersal fishes","Very low","tc",0.802143452220778
+"NIWA-PAUANPAU5A-1965-2010-CORDUE","MFish","New Zealand","New Zealand","NZ Area North PAUA 5A","Haliotis iris","Blackfoot abalone","Abalones, winkles, conchs","Low","tc",1.46373197544356
+"NIWA-PAUAPAU7-1965-2011-CORDUE","MFish","New Zealand","New Zealand","New Zealand Area PAU 7 (Marlborough)","Haliotis iris","Blackfoot abalone","Abalones, winkles, conchs","Low","tc",0.924096684010409
+"NIWA-PAUASPAU5A-1965-2009-CORDUE","MFish","New Zealand","New Zealand","NZ Area South PAUA 5A","Haliotis iris","Blackfoot abalone","Abalones, winkles, conchs","Low","tc",1.12091640697153
+"NIWA-SCMPBP-1985-2010-CORDUE","MFish","New Zealand","New Zealand","Bay of Plenty","Metanephrops challengeri","Scampi","Lobsters, spiny-rock lobsters","Medium","tc",0.590679136298897
+"NIWA-SCMPWHB-1985-2010-CORDUE","MFish","New Zealand","New Zealand","Wairarapa/Hawke Bay","Metanephrops challengeri","Scampi","Lobsters, spiny-rock lobsters","Medium","tc",0.490406297412108
+"NIWA-SMOOTHOREOBP-1983-2008-CORDUE","MFish","New Zealand","New Zealand","Bounty Plateau","Pseudocyttus maculatus","Smooth oreo","Miscellaneous demersal fishes","Very low","tc",0.888278800003542
+"NIWA-SMOOTHOREOCR-1978-2010-CORDUE","MFish","New Zealand","New Zealand","Chatham Rise","Pseudocyttus maculatus","Smooth oreo","Miscellaneous demersal fishes","Very low","tc",1.55556146474509
+"NIWA-SMOOTHOREOEPR-1973-2006-CORDUE","MFish","New Zealand","New Zealand","East Pukaki Rise","Pseudocyttus maculatus","Smooth oreo","Miscellaneous demersal fishes","Very low","tc",1.1612578007146
+"NIWA-SMOOTHOREOSLD-1973-2007-CORDUE","MFish","New Zealand","New Zealand","Southland","Pseudocyttus maculatus","Smooth oreo","Miscellaneous demersal fishes","Very low","tc",0.646795455966876
+"NIWA-SMOOTHOREOWECR-1965-2009-CORDUE","MFish","New Zealand","New Zealand","West end of Chatham Rise","Pseudocyttus maculatus","Smooth oreo","Miscellaneous demersal fishes","Very low","tc",0.892801867289785
+"NIWA-SOUTHHAKESA-1974-2011-CORDUE","MFish","New Zealand","New Zealand","Sub-Antarctic","Merluccius australis","Southern hake","Cods, hakes, haddocks","Low","tc",0.620790568852064
+"NIWA-TARAKNZ-1932-2007-CORDUE","MFish","New Zealand","New Zealand","Sub-Antarctic","Nemadactylus macropterus","Hawaiian morwong","Miscellaneous demersal fishes","Low","tc",1.87382206417873
+"NZMFishDEEPWATER-BLACKOREOWECR-1973-2007-JENSEN","MFish","New Zealand","New Zealand","West end of Chatham Rise","Allocyttus niger","Black oreo","Miscellaneous demersal fishes","Very low","tc",0.762130113489093
+"NZMFishINSHOREWG-BNSNZ-1935-2011-CORDUE","MFish","New Zealand","New Zealand","New Zealand","Hyperoglyphe antarctica","Bluenose","Miscellaneous demersal fishes","Low","tc",1.93402119021907
+"NZMFishINSHOREWG-NZSNAPNZ8-1931-2005-JENSEN","MFish","New Zealand","New Zealand","New Zealand Area 8 (Auckland and Central West)","Chrysophrys auratus","New Zealand snapper","Miscellaneous coastal fishes","Low","tc",0.653677872578167
+"NZMFishINSHOREWG-TREVALLYTRE7-1944-2005-JENSEN","MFish","New Zealand","New Zealand","New Zealand Areas TRE 7","Pseudocaranx dentex","Trevally","Miscellaneous pelagic fishes","Medium","tc",1.16018827124687
+"NZMFishMIDDEPTHSWG-GEMFISHNZ-1952-2007-JENSEN","MFish","New Zealand","New Zealand","New Zealand","Rexea solandri","common gemfish","Miscellaneous demersal fishes","Low","tc",1.01922487991036
+"NZMFishMIDDEPTHSWG-NZLINGLIN6b-1980-2006-JENSEN","MFish","New Zealand","New Zealand","New Zealand Areas LIN 6b","Genypterus blacodes","New Zealand ling","Miscellaneous demersal fishes","Low","tc",0.79992633801068
+"NZMFishMIDDEPTHSWG-NZLINGLIN72-1972-2007-JENSEN","MFish","New Zealand","New Zealand","New Zealand Areas LIN 72","Genypterus blacodes","New Zealand ling","Miscellaneous demersal fishes","Low","tc",1.37476088970653
+"NZMFishMIDDEPTHSWG-NZLINGLIN7WC-1972-2008-JENSEN","MFish","New Zealand","New Zealand","New Zealand Areas LIN 7WC-WCSI","Genypterus blacodes","New Zealand ling","Miscellaneous demersal fishes","Low","tc",1.04341019140004
+"FAO-SPNWA-RSARDINWA-1990-2010-CHING","FAO","Other-RFMO","West Africa","West Africa","Sardinella aurita","Round sardinella","Herrings, sardines, anchovies","High","tc",1.27453222503989
+"FAO-SPNWA-SARDINWA-1990-2010-CHING","FAO","Other-RFMO","West Africa","West Africa","Sardinella spp","Sardinella","Herrings, sardines, anchovies","High","tc",1.27453222503989
+"FAO-SPNWA-SARDWAZC-1990-2010-CHING","FAO","Other-RFMO","West Africa","West Africa Zone C","Sardina pilchardus","European pilchard","Herrings, sardines, anchovies","Medium","tc",0.625327310611896
+"HAWG-HERR2224IIIa-1991-2011-NEUBAUER","ICES","Other-RFMO","European Union","22-24-IIIa","Clupea harengus","Herring","Herrings, sardines, anchovies","Medium","tl",0.472060208100899
+"WGBFAS-HERR30-1972-2011-NEUBAUER","ICES","Other-RFMO","European Union","Bothnian Sea","Clupea harengus","Herring","Herrings, sardines, anchovies","Medium","tl",1.33076631968297
+"WGBFAS-HERRRIGA-1976-2011-NEUBAUER","ICES","Other-RFMO","European Union","Gulf of Riga East of Gotland","Clupea harengus","Herring","Herrings, sardines, anchovies","Medium","tl",1.00496497844453
+"WGCSE-CODVIa-1981-2012-CHING","ICES","Other-RFMO","European Union","West of Scotland","Gadus morhua","Atlantic cod","Cods, hakes, haddocks","Medium","tc",0.403066446314447
+"IPHC-PHALNPAC-1888-2014-HIVELY","IPHC","Other-RFMO","US Alaska","North Pacific","Hippoglossus stenolepis","Pacific halibut","Flounders, halibuts, soles","Low","tc",0.883544161800214
+"NAFO-SC-REDFISHSPP3LN-1959-2008-BAUM","NAFO","Other-RFMO","Canada East Coast","N and SW Grand Banks","Sebastes spp","Sebastes species","Miscellaneous demersal fishes","Low","tc",0.761525042840307
+"NAFO-SC-YELL3LNO-1960-2009-BAUM","NAFO","Other-RFMO","Canada East Coast","Grand Banks","Limanda ferruginea","Yellowtail flounder","Flounders, halibuts, soles","Medium","tc",0.430214975291073
+"IMARPE-PANCHPERUNC-1959-2008-HIVELY","IMARPE","Peru","South America","North-Central Peruvian coast","Engraulis ringens","Peruvian anchoveta","Herrings, sardines, anchovies","High","tl",0.702645093229943
+"VNIRO-WPOLLNSO-1963-2012-CHING","RFFA","Russia","Russia Japan","Northern Sea of Okhotsk","Theragra chalcogramma","Walleye pollock","Cods, hakes, haddocks","Low","tc",0.598893692504065
+"VNIRO-WPOLLWBS-1970-2008-CHING","RFFA","Russia","Russia Japan","Western Bering Sea","Theragra chalcogramma","Walleye pollock","Cods, hakes, haddocks","Low","tc",0.441957093257088
+"MARAM-CHAKESA-1917-2013-Rademeyer","DETMCM","South Africa","South Africa","South Africa","Merluccius capensis","Shallow-water cape hake","Cods, hakes, haddocks","Low","tc",0.548805125409625
+"MARAM-CTRACSA-1949-2013-Furman","DETMCM","South Africa","South Africa","South Africa South coast","Trachurus capensis","Cape horse mackerel","Miscellaneous pelagic fishes","Medium","tc",0.618330000968389
+"MARAM-DEEPCHAKESA-1917-2013-Rademeyer","DETMCM","South Africa","South Africa","South Africa","Merluccius paradoxus","Deep-water cape hake","Cods, hakes, haddocks","Low","tc",0.750914362889207
+"CCSBT-SC-SBT-1950-2011-CHING","CCSBT","Tuna-RFMO","Indian Ocean","Southern Oceans","Thunnus maccoyii","Southern bluefin tuna","Tunas, bonitos, billfishes","Low","tc",0.568420140755135
+"IATTC-BIGEYEEPAC-1975-2011-BRANCH","IATTC","Tuna-RFMO","Pacific Ocean","Eastern Pacific","Thunnus obesus","Bigeye tuna","Tunas, bonitos, billfishes","Medium","tc",0.994879916637584
+"IATTC-STMARLINNEPAC-1954-2009-BRANCH","IATTC","Tuna-RFMO","Atlantic Ocean","Northeast Pacific","Kajikia audax","Striped marlin","Tunas, bonitos, billfishes","Medium","tc",0.652776880834941
+"IATTC-YFINEPAC-1975-2011-BRANCH","IATTC","Tuna-RFMO","Pacific Ocean","Northeast Pacific","Thunnus albacares","Yellowfin tuna","Tunas, bonitos, billfishes","Medium","tc",1.05738829732315
+"ICCAT-ALBANATL-1950-2010-CHING","ICCAT","Tuna-RFMO","Atlantic Ocean","Northern Atlantic","Thunnus alalunga","Albacore tuna","Tunas, bonitos, billfishes","Medium","tc",0.663529245345412
+"ICCAT-ATBTUNAWATL-1950-2010-CHING","ICCAT","Tuna-RFMO","Atlantic Ocean","Western Atlantic","Thunnus thynnus","Atlantic bluefin tuna","Tunas, bonitos, billfishes","Low","tc",0.569876831884146
+"ICCAT-WMARLINATL-1956-2011-CHING","ICCAT","Tuna-RFMO","Atlantic Ocean","Atlantic Ocean","Tetrapturus albidus","White Marlin","Tunas, bonitos, billfishes","Medium","tc",0.557422932048945
+"IOTC-BIGEYEIO-1950-2010-CHING","IOTC","Tuna-RFMO","Indian Ocean","Indian Ocean","Thunnus obesus","Bigeye tuna","Tunas, bonitos, billfishes","Medium","tc",1.14829798206814
+"IOTC-SKJCIO-1950-2010-CHING","IOTC","Tuna-RFMO","Indian Ocean","Indian Ocean","Katsuwonus pelamis","Skipjack tuna","Tunas, bonitos, billfishes","Medium","tc",1.36889163613721
+"IOTC-SWORDIO-1950-2010-CHING","IOTC","Tuna-RFMO","Indian Ocean","Indian Ocean","Xiphias gladius","Swordfish","Tunas, bonitos, billfishes","Low","tc",1.17297926626016
+"IOTC-YFINEIO-1972-2009-BRANCH","IOTC","Tuna-RFMO","Indian Ocean","Indian Ocean","Thunnus albacares","Yellowfin tuna","Tunas, bonitos, billfishes","Medium","tl",0.969021024303222
+"ISC-ALBANPAC-1952-2010-CHING","ISC","Tuna-RFMO","US West Coast","North Pacific Ocean","Thunnus alalunga","Albacore tuna","Tunas, bonitos, billfishes","Medium","tc",1.06489560444111
+"ISC-BMARLINPAC-1952-2010-CHING","ISC","Tuna-RFMO","Pacific Ocean","Pacific Ocean","Makaira nigricans","Blue marlin","Tunas, bonitos, billfishes","Medium","tc",0.901363793104516
+"ISC-PACBTUNA-1952-2008-CHING","ISC","Tuna-RFMO","Pacific Ocean","Pacific Ocean","Thunnus orientalis","Pacific bluefin tuna","Tunas, bonitos, billfishes","Low","tc",0.931502848587872
+"ISC-STMARLINWCNPAC-1951-2010-CHING","ISC","Tuna-RFMO","Pacific Ocean","Western and Central North Pacific","Kajikia audax","Striped marlin","Tunas, bonitos, billfishes","Medium","tc",0.623726336438341
+"ISC-SWORDNPAC-1952-2010-CHING","ISC","Tuna-RFMO","Pacific Ocean","North Pacific Ocean","Xiphias gladius","Swordfish","Tunas, bonitos, billfishes","Low","tc",0.905217216380389
+"SPC-ALBASPAC-1965-2007-BRANCH","WCPFC","Tuna-RFMO","Pacific Ocean","South Pacific Ocean","Thunnus alalunga","Albacore tuna","Tunas, bonitos, billfishes","Medium","tc",1.25022556293406
+"SPC-BIGEYECWPAC-1952-2010-CHING","WCPFC","Tuna-RFMO","Pacific Ocean","Central Western Pacific Ocean","Thunnus obesus","Bigeye tuna","Tunas, bonitos, billfishes","Medium","tc",1.34596189381134
+"SPC-BIGEYEWPO-1952-2006-JENSEN","WCPFC","Tuna-RFMO","Pacific Ocean","Western Pacific Ocean","Thunnus obesus","Bigeye tuna","Tunas, bonitos, billfishes","Medium","tc",1.53208403219293
+"SPC-SKJCWPAC-1950-2011-CHING","WCPFC","Tuna-RFMO","Pacific Ocean","Central Western Pacific Ocean","Katsuwonus pelamis","Skipjack tuna","Tunas, bonitos, billfishes","Medium","tc",1.78523508494455
+"SPC-YFINCWPAC-1952-2010-CHING","WCPFC","Tuna-RFMO","Pacific Ocean","Central Western Pacific Ocean","Thunnus albacares","Yellowfin tuna","Tunas, bonitos, billfishes","Medium","tc",1.57212449635113
+"AFSC-ALPLAICBSAI-1972-2010-STACHURA","NMFS","United States","US Alaska","Bering Sea and Aleutian Islands","Pleuronectes quadrituberculatus","Alaska plaice","Flounders, halibuts, soles","Low","tc",0.5106829967239
+"AFSC-ARFLOUNDBSAI-1970-2010-STACHURA","NMFS","United States","US Alaska","Bering Sea and Aleutian Islands","Atheresthes stomias","Arrowtooth flounder","Flounders, halibuts, soles","Low","tc",0.782030125183505
+"AFSC-ARFLOUNDGA-1958-2010-STACHURA","NMFS","United States","US Alaska","Gulf of Alaska","Atheresthes stomias","Arrowtooth flounder","Flounders, halibuts, soles","Low","tc",1.03844101876725
+"AFSC-ATKABSAI-1976-2011-STACHURA","NMFS","United States","US Alaska","Bering Sea and Aleutian Islands","Pleurogrammus monopterygius","Atka mackerel","Miscellaneous coastal fishes","Medium","tc",0.854275076969484
+"AFSC-DSOLEGA-1978-2009-STACHURA","NMFS","United States","US Alaska","Gulf of Alaska","Microstomus pacificus","Dover sole","Flounders, halibuts, soles","Low","tc",0.427183860027388
+"AFSC-DUSROCKGA-1973-2010-STACHURA","NMFS","United States","US Alaska","Gulf of Alaska","Sebastes variabilis","Dusky rockfish","Miscellaneous demersal fishes","Very low","tc",1.42953784590618
+"AFSC-FLSOLEBSAI-1974-2010-STACHURA","NMFS","United States","US Alaska","Bering Sea and Aleutian Islands","Hippoglossoides elassodon","Flathead sole","Flounders, halibuts, soles","Medium","tc",0.93850051781662
+"AFSC-FLSOLEGA-1978-2010-STACHURA","NMFS","United States","US Alaska","Gulf of Alaska","Hippoglossoides elassodon","Flathead sole","Flounders, halibuts, soles","Medium","tc",1.35108980749662
+"AFSC-GHALBSAI-1960-2009-STANTON","NMFS","United States","US Alaska","Bering Sea and Aleutian Islands","Reinhardtius hippoglossoides","Greenland halibut","Flounders, halibuts, soles","Low","tc",0.413906462885698
+"AFSC-NROCKBSAI-1974-2011-STACHURA","NMFS","United States","US Alaska","Bering Sea and Aleutian Islands","Sebastes polyspinis","Northern rockfish","Miscellaneous demersal fishes","Very low","tc",1.05204551590522
+"AFSC-NROCKGA-1959-2010-STACHURA","NMFS","United States","US Alaska","Gulf of Alaska","Sebastes polyspinis","Northern rockfish","Miscellaneous demersal fishes","Very low","tc",0.816512265844684
+"AFSC-NRSOLEEBSAI-1975-2012-HIVELY","NMFS","United States","US Alaska","Eastern Bering Sea and Aleutian Islands","Lepidopsetta polyxystra","Northern rock sole","Flounders, halibuts, soles","Low","tc",0.976231209619531
+"AFSC-PCODBSAI-1964-2013-CHING","NMFS","United States","US Alaska","Bering Sea and Aleutian Islands","Gadus macrocephalus","Pacific cod","Cods, hakes, haddocks","Low","tc",0.995156203030024
+"AFSC-PCODGA-1977-2014-HIVELY","NMFS","United States","US Alaska","Gulf of Alaska","Gadus macrocephalus","Pacific cod","Cods, hakes, haddocks","Low","tc",0.872768258700155
+"AFSC-PERCHEBSAI-1960-2011-STACHURA","NMFS","United States","US Alaska","Eastern Bering Sea and Aleutian Islands","Sebastes alutus","Pacific ocean perch","Miscellaneous demersal fishes","Very low","tc",1.51605593785724
+"AFSC-POPERCHGA-1959-2010-STACHURA","NMFS","United States","US Alaska","Gulf of Alaska","Sebastes alutus","Pacific ocean perch","Miscellaneous demersal fishes","Very low","tc",0.700062299212703
+"AFSC-REYEROCKBSAI-1974-2011-STACHURA","NMFS","United States","US Alaska","Bering Sea and Aleutian Islands","Sebastes aleutianus","Rougheye rockfish","Miscellaneous demersal fishes","Very low","tc",0.64507773989263
+"AFSC-REYEROCKGA-1974-2010-STACHURA","NMFS","United States","US Alaska","Gulf of Alaska","Sebastes aleutianus","Rougheye rockfish","Miscellaneous demersal fishes","Very low","tc",0.797269206895085
+"AFSC-RKCRABBB-1960-2008-JENSEN","NMFS","United States","US Alaska","Bristol Bay","Paralithodes camtschaticus","Red king crab","King crabs, squat-lobsters","High","tc",0.631717864383911
+"AFSC-SABLEFEBSAIGA-1958-2010-STACHURA","NMFS","United States","US Alaska","Eastern Bering Sea / Aleutian Islands / Gulf of Alaska","Anoplopoma fimbria","Sablefish","Miscellaneous demersal fishes","Low","tc",0.831251721199797
+"AFSC-SNOWCRABBS-1978-2013-HIVELY","NMFS","United States","US Alaska","Bering Sea","Chionoecetes opilio","Snow crab","Crabs, sea-spiders","Medium","tc",0.424318041504154
+"AFSC-TANNERCRABBSAI-1949-2013-HIVELY","NMFS","United States","US Alaska","Bering Sea and Aleutian Islands","Chionoecetes bairdi","Tanner crab","Crabs, sea-spiders","Medium","tc",0.367633622325117
+"AFSC-WPOLLAI-1976-2013-CHING","NMFS","United States","US Alaska","Aleutian Islands","Theragra chalcogramma","Walleye pollock","Cods, hakes, haddocks","Low","tc",0.375845866889397
+"AFSC-WPOLLEBS-1964-2013-CHING","NMFS","United States","US Alaska","Eastern Bering Sea","Theragra chalcogramma","Walleye pollock","Cods, hakes, haddocks","Low","tc",0.686320561582728
+"AFSC-WPOLLGA-1970-2014-HIVELY","NMFS","United States","US Alaska","Gulf of Alaska","Theragra chalcogramma","Walleye pollock","Cods, hakes, haddocks","Low","tc",0.48684627049416
+"AFSC-YSOLEBSAI-1949-2010-STACHURA","NMFS","United States","US Alaska","Bering Sea and Aleutian Islands","Limanda aspera","Yellowfin sole","Flounders, halibuts, soles","Low","tc",0.763788800487465
+"ASMFC-ATLCROAKMATLC-1973-2002-STANTON","NMFS","United States","US East Coast","Mid-Atlantic Coast","Micropogonias undulatus","Atlantic croaker","Miscellaneous coastal fishes","Medium","tl",0.992000101496594
+"ASMFC-LOBSTERGOM-1981-2007-STANTON","NMFS","United States","US East Coast","Gulf of Maine","Homarus americanus","American lobster","Lobsters, spiny-rock lobsters","Medium","tl",0.885975828454863
+"NEFSC-ACADREDGOMGB-1913-2007-MILLER","NMFS","United States","US East Coast","Gulf of Maine / Georges Bank","Sebastes fasciatus","Acadian redfish","Miscellaneous demersal fishes","Low","tc",0.788638077919683
+"NEFSC-AMPL5YZ-1960-2008-OBRIEN","NMFS","United States","US East Coast","Gulf of Maine / Georges Bank","Hippoglossoides platessoides","American plaice","Flounders, halibuts, soles","Low","tl",0.470281932272029
+"NEFSC-BLUEFISHATLC-1981-2007-SHEPHERD","NMFS","United States","US East Coast","Atlantic Coast","Pomatomus saltatrix","Bluefish","Miscellaneous pelagic fishes","Medium","tc",0.560372854925735
+"NEFSC-BSBASSMATLC-1968-2007-SHEPHERD","NMFS","United States","US East Coast","Mid-Atlantic Coast","Centropristis striata","Black sea bass","Miscellaneous coastal fishes","Medium","tc",0.601407600499864
+"NEFSC-BUTTERGOMCHATT-1965-2012-HIVELY","NMFS","United States","US East Coast","Gulf of Maine / Cape Hatteras","Peprilus triacanthus","Atlantic butterfish","Miscellaneous pelagic fishes","High","tc",0.481860808723127
+"NEFSC-CODGB-1976-2011-CHING","NMFS","United States","US East Coast","Georges Bank","Gadus morhua","Atlantic cod","Cods, hakes, haddocks","Medium","tc",0.372428638435821
+"NEFSC-CODGOM-1981-2011-CHING","NMFS","United States","US East Coast","Gulf of Maine","Gadus morhua","Atlantic cod","Cods, hakes, haddocks","Medium","tc",0.477742739101586
+"NEFSC-HAD5Y-1964-2011-CHING","NMFS","United States","US East Coast","Gulf of Maine","Melanogrammus aeglefinus","Haddock","Cods, hakes, haddocks","Medium","tc",0.427048360991669
+"NEFSC-HADGB-1931-2010-CHING","NMFS","United States","US East Coast","Georges Bank","Melanogrammus aeglefinus","Haddock","Cods, hakes, haddocks","Medium","tc",0.413635933695309
+"NEFSC-POLL5YZ-1960-2009-CHING","NMFS","United States","US East Coast","Gulf of Maine / Georges Bank","Pollachius virens","Pollock","Cods, hakes, haddocks","Medium","tc",0.580959861873981
+"NEFSC-SCALL5ZMAB-1964-2013-HIVELY","NMFS","United States","US East Coast","Georges Bank and Mid-Atlantic Bight","Placopecten magellanicus","Sea scallop","Scallops, pectens","Medium","tl",0.205777137838625
+"NEFSC-SCUPNWATLC-1960-2007-TERCEIRO","NMFS","United States","US East Coast","Northwestern Atlantic Coast","Stenotomus chrysops","Scup","Miscellaneous coastal fishes","Medium","tc",0.450685066492425
+"NEFSC-SFLOUNMATLC-1940-2012-HIVELY","NMFS","United States","US East Coast","Mid-Atlantic Coast","Paralichthys dentatus","Summer flounder","Flounders, halibuts, soles","Medium","tl",0.751025779597163
+"NEFSC-SURFMATLC-1965-2008-JACOBSON","NMFS","United States","US East Coast","Mid-Atlantic Coast","Spisula solidissima","Atlantic surfclam","Clams, cockles, arkshells","Medium","tl",1.81824200408479
+"NEFSC-TILEMATLC-1915-2012-HIVELY","NMFS","United States","US East Coast","Mid-Atlantic Coast","Lopholatilus chamaeleonticeps","Tilefish","Miscellaneous demersal fishes","Low","tl",0.711882311934224
+"NEFSC-WEAKFISHATLC-1981-2008-STANTON","NMFS","United States","US East Coast","Atlantic Coast","Cynoscion regalis","Weakfish","Miscellaneous coastal fishes","High","tc",0.379411660212861
+"NEFSC-WHAKEGBGOM-1963-2007-SOSEBEE","NMFS","United States","US East Coast","Gulf of Maine / Georges Bank","Urophycis tenuis","White hake","Cods, hakes, haddocks","Low","tc",0.449634748826551
+"NEFSC-WINFLOUN5Z-1964-2011-HIVELY","NMFS","United States","US East Coast","Georges Bank","Pseudopleuronectes americanus","Winter flounder","Flounders, halibuts, soles","Medium","tc",0.590752993744687
+"NEFSC-WINFLOUNSNEMATL-1980-2010-HIVELY","NMFS","United States","US East Coast","Southern New England /Mid Atlantic","Pseudopleuronectes americanus","Winter flounder","Flounders, halibuts, soles","Medium","tc",0.363890718571008
+"NEFSC-WITFLOUN5Y-1982-2008-WIGLEY","NMFS","United States","US East Coast","Gulf of Maine","Glyptocephalus cynoglossus","Witch flounder","Flounders, halibuts, soles","Low","tc",0.419333387401501
+"NEFSC-YELLCCODGOM-1935-2008-LEGAULT","NMFS","United States","US East Coast","Cape Cod / Gulf of Maine","Limanda ferruginea","Yellowtail flounder","Flounders, halibuts, soles","Medium","tc",0.56789289695084
+"NEFSC-YELLGB-1935-2008-BAUM","NMFS","United States","US East Coast","Georges Bank","Limanda ferruginea","Yellowtail flounder","Flounders, halibuts, soles","Medium","tc",0.507523631566255
+"NEFSC-YELLSNEMATL-1935-2008-BAUM","NMFS","United States","US East Coast","Southern New England /Mid Atlantic","Limanda ferruginea","Yellowtail flounder","Flounders, halibuts, soles","Medium","tc",0.500670341004684
+"NMFS-STMARLINNPAC-1952-2004-BRANCH","NMFS","United States","Pacific Ocean","North Pacific","Kajikia audax","Striped marlin","Tunas, bonitos, billfishes","Medium","tl",0.667797541303998
+"NWFSC-ARFLOUNDPCOAST-1916-2007-BRANCH","NMFS","United States","US West Coast","Pacific Coast","Atheresthes stomias","Arrowtooth flounder","Flounders, halibuts, soles","Low","tc",0.801265588177549
+"NWFSC-BGROCKPCOAST-1950-2011-STACHURA","NMFS","United States","US West Coast","Pacific Coast","Sebastes melanostomus","Blackgill rockfish","Miscellaneous demersal fishes","Very low","tc",0.969416027623498
+"NWFSC-BLACKROCKNPCOAST-1914-2006-BRANCH","NMFS","United States","US West Coast","Northern Pacific Coast","Sebastes melanops","Black rockfish","Miscellaneous demersal fishes","Low","tc",1.48785737660977
+"NWFSC-CABEZORECOAST-1973-2009-STACHURA","NMFS","United States","US West Coast","Oregon Coast","Scorpaenichthys marmoratus","Cabezon","Miscellaneous coastal fishes","Medium","tc",0.909167613998384
+"NWFSC-CHILISPCOAST-1892-2007-BRANCH","NMFS","United States","US West Coast","Southern Pacific Coast","Sebastes goodei","Chilipepper rockfish","Miscellaneous demersal fishes","Medium","tc",1.22273560006289
+"NWFSC-CROCKPCOAST-1916-2011-STACHURA","NMFS","United States","US West Coast","Pacific Coast","Sebastes pinniger","Canary rockfish","Miscellaneous demersal fishes","Low","tc",1.05900345970307
+"NWFSC-ESOLEPCOAST-1876-2007-BRANCH","NMFS","United States","US West Coast","Pacific Coast","Parophrys vetulus","English sole","Flounders, halibuts, soles","Medium","tc",0.779742051793447
+"NWFSC-KELPGREENLINGORECOAST-1979-2005-STANTON","NMFS","United States","US West Coast","Oregon Coast","Hexagrammos decagrammus","Kelp greenling","Miscellaneous coastal fishes","Medium","tc",0.755335675055988
+"NWFSC-LINGCODNPCOAST-1928-2009-STACHURA","NMFS","United States","US West Coast","Northern Pacific Coast","Ophiodon elongatus","Lingcod","Miscellaneous coastal fishes","Low","tl",0.642654863663632
+"NWFSC-LINGCODSPCOAST-1928-2009-STACHURA","NMFS","United States","US West Coast","Southern Pacific Coast","Ophiodon elongatus","Lingcod","Miscellaneous coastal fishes","Low","tl",0.610506554583754
+"NWFSC-LNOSESKAPCOAST-1915-2007-BRANCH","NMFS","United States","US West Coast","Pacific Coast","Raja rhina","Longnose skate","Sharks, rays, chimaeras","Low","tc",1.71368055356007
+"NWFSC-LSTHORNHPCOAST-1964-2012-HIVELY","NMFS","United States","US West Coast","Pacific Coast","Sebastolobus altivelis","Longspine thornyhead","Miscellaneous demersal fishes","Low","tc",0.864383682683983
+"NWFSC-PHAKEPCOAST-1966-2012-CHING","NMFS","United States","US West Coast","Pacific Coast","Merluccius productus","Pacific hake","Cods, hakes, haddocks","Low","tc",0.91701524596957
+"NWFSC-SABLEFPCOAST-1900-2011-STACHURA","NMFS","United States","US West Coast","Pacific Coast","Anoplopoma fimbria","Sablefish","Miscellaneous demersal fishes","Low","tc",1.49381019439382
+"NWFSC-SSTHORNHPCOAST-1901-2005-STANTON","NMFS","United States","US West Coast","Pacific Coast","Sebastolobus alascanus","Shortspine thornyhead","Miscellaneous demersal fishes","Very low","tc",0.904028953510765
+"NWFSC-WROCKPCOAST-1916-2011-STACHURA","NMFS","United States","US West Coast","Pacific Coast","Sebastes entomelas","Widow rockfish","Miscellaneous demersal fishes","Very low","tc",1.03236515500843
+"PFMC-CABEZNCAL-1930-2009-CHING","NMFS","United States","US West Coast","Northern California","Scorpaenichthys marmoratus","Cabezon","Miscellaneous coastal fishes","Medium","tc",0.587129541834267
+"PFMC-CABEZSCAL-1930-2009-CHING","NMFS","United States","US West Coast","Southern California","Scorpaenichthys marmoratus","Cabezon","Miscellaneous coastal fishes","Medium","tc",0.557482902092017
+"PFMC-PSOLEPCOAST-1930-2011-CHING","NMFS","United States","US West Coast","Pacific Coast","Eopsetta jordani","Petrale sole","Flounders, halibuts, soles","Medium","tc",0.513422473253295
+"SEFSC-BLACKGROUPERGMSATL-1986-2008-THORSON","NMFS","United States","US Southeast/Gulf","Gulf of Mexico and South Atlantic","Mycteroperca bonaci","Black grouper","Miscellaneous coastal fishes","Low","tc",0.461611841306075
+"SEFSC-BSBASSSATL-1950-2010-HIVELY","NMFS","United States","US Southeast/Gulf","South Atlantic","Centropristis striata","Black sea bass","Miscellaneous coastal fishes","Medium","tl",0.681188540710802
+"SEFSC-GAGGM-1963-2012-HIVELY","NMFS","United States","US Southeast/Gulf","Gulf of Mexico","Mycteroperca microlepis","Gag","Miscellaneous coastal fishes","Low","tc",0.559130983081727
+"SEFSC-LISQUIDATLC-1963-2009-HIVELY","NMFS","United States","US Southeast/Gulf","Atlantic Coast","Loligo pealeii","Longfin inshore squid","Miscellaneous coastal fishes","High","tc",0.501002761609991
+"SEFSC-RGROUPSATL-1976-2009-HIVELY","NMFS","United States","US Southeast/Gulf","South Atlantic","Epinephelus morio","Red grouper","Miscellaneous coastal fishes","Low","tc",0.721998724547017
+"SEFSC-RPORGYSATLC-1972-2012-HIVELY","NMFS","United States","US Southeast/Gulf","Southern Atlantic coast","Pagrus pagrus","Common seabream","Miscellaneous coastal fishes","Medium","tl",0.462846906831614
+"SEFSC-SNOWGROUPSATLC-1974-2013-HIVELY","NMFS","United States","US Southeast/Gulf","Southern Atlantic coast","Epinephelus niveatus","Snowy grouper","Miscellaneous coastal fishes","Low","tl",0.533233180879488
+"SEFSC-SPANMACKGM-1886-2011-HIVELY","NMFS","United States","US Southeast/Gulf","Gulf of Mexico","Scomberomorus maculatus","Spanish mackerel","Tunas, bonitos, billfishes","Medium","tl",0.667735255895124
+"SEFSC-SPANMACKSATLC-1950-2012-HIVELY","NMFS","United States","US Southeast/Gulf","Southern Atlantic coast","Scomberomorus maculatus","Spanish mackerel","Tunas, bonitos, billfishes","Medium","tl",0.832150260307317
+"SEFSC-VSNAPSATLC-1946-2008-STANTON","NMFS","United States","US Southeast/Gulf","Southern Atlantic coast","Rhomboplites aurorubens","Vermilion snapper","Miscellaneous coastal fishes","Medium","tc",0.980943342686734
+"SEFSC-YEGROUPGM-1975-2009-HIVELY","NMFS","United States","US Southeast/Gulf","Gulf of Mexico","Epinephelus flavolimbatus","Yellowedge grouper","Miscellaneous coastal fishes","Low","tl",0.476055160927609
+"SWFSC-CMACKPCOAST-1929-2008-PINSKY","NMFS","United States","US West Coast","Pacific Coast","Scomber japonicus","Chub mackerel","Miscellaneous pelagic fishes","Medium","tc",0.872693636883642
+"SWFSC-DSOLEPCOAST-1910-2011-STACHURA","NMFS","United States","US West Coast","Pacific Coast","Microstomus pacificus","Dover sole","Flounders, halibuts, soles","Low","tc",1.06097638975251
+"SWFSC-GOPHERSPCOAST-1965-2005-STANTON","NMFS","United States","US West Coast","Southern Pacific Coast","Sebastes carnatus","Gopher rockfish","Miscellaneous demersal fishes","Low","tc",1.02665692349968
+"SWFSC-STFLOUNNPCOAST-1970-2005-STANTON","NMFS","United States","US West Coast","Northern Pacific Coast","Platichthys stellatus","Starry flounder","Flounders, halibuts, soles","Medium","tc",0.429192289047303
+"SWFSC-STFLOUNSPCOAST-1970-2005-STANTON","NMFS","United States","US West Coast","Southern Pacific Coast","Platichthys stellatus","Starry flounder","Flounders, halibuts, soles","Medium","tc",0.426091991993926

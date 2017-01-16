@@ -1,0 +1,522 @@
+Species: Fishus computerus 1 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_20yr_1 
+ Computer fish 1 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 41 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 50 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0147 - 0.59
+
+ Results of CMSY analysis with altogether 10139 viable trajectories for 2290 r-k pairs 
+ r = 0.282 , 95% CL = 0.163 - 0.487 , k = 0.0709 , 95% CL = 0.0347 - 0.145 
+ MSY = 0.005 , 95% CL = 0.0036 - 0.00694 
+ Relative biomass last year = 0.524 k, 2.5th = 0.286 , 97.5th = 0.598 
+ Exploitation F/(r/2) in last year = 1.08 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.005 ,  95% CL = 0.0036 - 0.00694 
+ Bmsy = 0.0354 ,  95% CL = 0.0174 - 0.0723 
+ Biomass in last year  = 0.0371 , 2.5th perc = 0.0202 , 97.5 perc = 0.0424 
+ B/Bmsy in last year   = 1.05 , 2.5th perc = 0.571 , 97.5 perc = 1.2 
+ Fishing mortality in last year = 0.152 , 2.5th perc = 0.133 , 97.5 perc = 0.279 
+ F/Fmsy  = 1.08 , 2.5th perc = 0.944 , 97.5 perc = 1.98 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 2 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_20yr_10 
+ Computer fish 2 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 41 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 50 default 
+ Prior final relative biomass   = 0.4 - 0.8 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0277 - 1.66
+
+ Results of CMSY analysis with altogether 26485 viable trajectories for 3701 r-k pairs 
+ r = 0.282 , 95% CL = 0.163 - 0.487 , k = 0.0943 , 95% CL = 0.0421 - 0.211 
+ MSY = 0.00666 , 95% CL = 0.00399 - 0.0111 
+ Relative biomass last year = 0.691 k, 2.5th = 0.421 , 97.5th = 0.798 
+ Exploitation F/(r/2) in last year = 0.537 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00666 ,  95% CL = 0.00399 - 0.0111 
+ Bmsy = 0.0472 ,  95% CL = 0.021 - 0.106 
+ Biomass in last year  = 0.0651 , 2.5th perc = 0.0398 , 97.5 perc = 0.0752 
+ B/Bmsy in last year   = 1.38 , 2.5th perc = 0.843 , 97.5 perc = 1.6 
+ Fishing mortality in last year = 0.0758 , 2.5th perc = 0.0656 , 97.5 perc = 0.124 
+ F/Fmsy  = 0.537 , 2.5th perc = 0.465 , 97.5 perc = 0.88 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 3 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_20yr_2 
+ Computer fish 3 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 41 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 50 default 
+ Prior final relative biomass   = 0.4 - 0.8 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0261 - 1.57
+
+ Results of CMSY analysis with altogether 26939 viable trajectories for 3744 r-k pairs 
+ r = 0.282 , 95% CL = 0.163 - 0.487 , k = 0.0937 , 95% CL = 0.0414 - 0.212 
+ MSY = 0.00661 , 95% CL = 0.0039 - 0.0112 
+ Relative biomass last year = 0.693 k, 2.5th = 0.428 , 97.5th = 0.798 
+ Exploitation F/(r/2) in last year = 0.595 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00661 ,  95% CL = 0.0039 - 0.0112 
+ Bmsy = 0.0469 ,  95% CL = 0.0207 - 0.106 
+ Biomass in last year  = 0.065 , 2.5th perc = 0.0401 , 97.5 perc = 0.0747 
+ B/Bmsy in last year   = 1.39 , 2.5th perc = 0.857 , 97.5 perc = 1.6 
+ Fishing mortality in last year = 0.084 , 2.5th perc = 0.073 , 97.5 perc = 0.136 
+ F/Fmsy  = 0.595 , 2.5th perc = 0.517 , 97.5 perc = 0.963 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 4 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_20yr_3 
+ Computer fish 4 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 41 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 56 default 
+ Prior final relative biomass   = 0.4 - 0.8 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0286 - 1.71
+
+ Results of CMSY analysis with altogether 29036 viable trajectories for 3895 r-k pairs 
+ r = 0.282 , 95% CL = 0.163 - 0.487 , k = 0.0888 , 95% CL = 0.0386 - 0.205 
+ MSY = 0.00627 , 95% CL = 0.00356 - 0.011 
+ Relative biomass last year = 0.668 k, 2.5th = 0.416 , 97.5th = 0.797 
+ Exploitation F/(r/2) in last year = 0.806 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00627 ,  95% CL = 0.00356 - 0.011 
+ Bmsy = 0.0444 ,  95% CL = 0.0193 - 0.102 
+ Biomass in last year  = 0.0593 , 2.5th perc = 0.0369 , 97.5 perc = 0.0708 
+ B/Bmsy in last year   = 1.34 , 2.5th perc = 0.831 , 97.5 perc = 1.59 
+ Fishing mortality in last year = 0.114 , 2.5th perc = 0.0953 , 97.5 perc = 0.183 
+ F/Fmsy  = 0.806 , 2.5th perc = 0.675 , 97.5 perc = 1.29 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 5 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_20yr_4 
+ Computer fish 5 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 41 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 50 default 
+ Prior final relative biomass   = 0.01 - 0.4 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0131 - 0.524
+
+ Results of CMSY analysis with altogether 3272 viable trajectories for 1646 r-k pairs 
+ r = 0.239 , 95% CL = 0.127 - 0.451 , k = 0.0592 , 95% CL = 0.0326 - 0.108 
+ MSY = 0.00354 , 95% CL = 0.0029 - 0.00433 
+ Relative biomass last year = 0.365 k, 2.5th = 0.265 , 97.5th = 0.399 
+ Exploitation F/(r/2) in last year = 1.26 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.12 , 95% CL = 0.0635 - 0.226 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.12 , 95% CL = 0.0635 - 0.226 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00354 ,  95% CL = 0.0029 - 0.00433 
+ Bmsy = 0.0296 ,  95% CL = 0.0163 - 0.0538 
+ Biomass in last year  = 0.0216 , 2.5th perc = 0.0157 , 97.5 perc = 0.0236 
+ B/Bmsy in last year   = 0.731 , 2.5th perc = 0.531 , 97.5 perc = 0.798 
+ Fishing mortality in last year = 0.151 , 2.5th perc = 0.138 , 97.5 perc = 0.207 
+ F/Fmsy  = 1.26 , 2.5th perc = 1.15 , 97.5 perc = 1.73 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 6 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_20yr_5 
+ Computer fish 6 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 41 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 50 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0161 - 0.643
+
+ Results of CMSY analysis with altogether 9893 viable trajectories for 2278 r-k pairs 
+ r = 0.282 , 95% CL = 0.163 - 0.487 , k = 0.0828 , 95% CL = 0.0405 - 0.169 
+ MSY = 0.00584 , 95% CL = 0.0042 - 0.00812 
+ Relative biomass last year = 0.527 k, 2.5th = 0.284 , 97.5th = 0.598 
+ Exploitation F/(r/2) in last year = 0.691 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00584 ,  95% CL = 0.0042 - 0.00812 
+ Bmsy = 0.0414 ,  95% CL = 0.0203 - 0.0846 
+ Biomass in last year  = 0.0436 , 2.5th perc = 0.0235 , 97.5 perc = 0.0495 
+ B/Bmsy in last year   = 1.05 , 2.5th perc = 0.567 , 97.5 perc = 1.2 
+ Fishing mortality in last year = 0.0975 , 2.5th perc = 0.086 , 97.5 perc = 0.181 
+ F/Fmsy  = 0.691 , 2.5th perc = 0.609 , 97.5 perc = 1.28 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 7 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_20yr_6 
+ Computer fish 7 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 41 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 50 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0129 - 0.517
+
+ Results of CMSY analysis with altogether 9767 viable trajectories for 2287 r-k pairs 
+ r = 0.278 , 95% CL = 0.162 - 0.478 , k = 0.0658 , 95% CL = 0.0325 - 0.133 
+ MSY = 0.00457 , 95% CL = 0.00332 - 0.00629 
+ Relative biomass last year = 0.52 k, 2.5th = 0.298 , 97.5th = 0.598 
+ Exploitation F/(r/2) in last year = 1.24 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.139 , 95% CL = 0.0809 - 0.239 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.139 , 95% CL = 0.0809 - 0.239 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00457 ,  95% CL = 0.00332 - 0.00629 
+ Bmsy = 0.0329 ,  95% CL = 0.0162 - 0.0665 
+ Biomass in last year  = 0.0342 , 2.5th perc = 0.0196 , 97.5 perc = 0.0393 
+ B/Bmsy in last year   = 1.04 , 2.5th perc = 0.596 , 97.5 perc = 1.2 
+ Fishing mortality in last year = 0.172 , 2.5th perc = 0.15 , 97.5 perc = 0.3 
+ F/Fmsy  = 1.24 , 2.5th perc = 1.08 , 97.5 perc = 2.16 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 8 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_20yr_7 
+ Computer fish 8 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 41 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 50 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0171 - 0.684
+
+ Results of CMSY analysis with altogether 14840 viable trajectories for 2467 r-k pairs 
+ r = 0.282 , 95% CL = 0.163 - 0.487 , k = 0.0848 , 95% CL = 0.0411 - 0.175 
+ MSY = 0.00598 , 95% CL = 0.00421 - 0.0085 
+ Relative biomass last year = 0.464 k, 2.5th = 0.215 , 97.5th = 0.596 
+ Exploitation F/(r/2) in last year = 1.09 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00598 ,  95% CL = 0.00421 - 0.0085 
+ Bmsy = 0.0424 ,  95% CL = 0.0205 - 0.0876 
+ Biomass in last year  = 0.0393 , 2.5th perc = 0.0182 , 97.5 perc = 0.0506 
+ B/Bmsy in last year   = 0.928 , 2.5th perc = 0.429 , 97.5 perc = 1.19 
+ Fishing mortality in last year = 0.153 , 2.5th perc = 0.119 , 97.5 perc = 0.331 
+ F/Fmsy  = 1.09 , 2.5th perc = 0.844 , 97.5 perc = 2.35 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 9 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_20yr_8 
+ Computer fish 9 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 41 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 56 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0113 - 0.45
+
+ Results of CMSY analysis with altogether 5436 viable trajectories for 1542 r-k pairs 
+ r = 0.278 , 95% CL = 0.162 - 0.478 , k = 0.0565 , 95% CL = 0.0284 - 0.112 
+ MSY = 0.00392 , 95% CL = 0.00295 - 0.00523 
+ Relative biomass last year = 0.336 k, 2.5th = 0.211 , 97.5th = 0.477 
+ Exploitation F/(r/2) in last year = 1.59 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.139 , 95% CL = 0.0809 - 0.239 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.139 , 95% CL = 0.0809 - 0.239 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00392 ,  95% CL = 0.00295 - 0.00523 
+ Bmsy = 0.0282 ,  95% CL = 0.0142 - 0.0562 
+ Biomass in last year  = 0.019 , 2.5th perc = 0.0119 , 97.5 perc = 0.027 
+ B/Bmsy in last year   = 0.673 , 2.5th perc = 0.423 , 97.5 perc = 0.955 
+ Fishing mortality in last year = 0.221 , 2.5th perc = 0.155 , 97.5 perc = 0.351 
+ F/Fmsy  = 1.59 , 2.5th perc = 1.12 , 97.5 perc = 2.53 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 10 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_20yr_9 
+ Computer fish 10 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 41 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 50 default 
+ Prior final relative biomass   = 0.4 - 0.8 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0242 - 1.45
+
+ Results of CMSY analysis with altogether 26646 viable trajectories for 3698 r-k pairs 
+ r = 0.282 , 95% CL = 0.163 - 0.487 , k = 0.0905 , 95% CL = 0.04 - 0.205 
+ MSY = 0.00639 , 95% CL = 0.00377 - 0.0108 
+ Relative biomass last year = 0.683 k, 2.5th = 0.423 , 97.5th = 0.797 
+ Exploitation F/(r/2) in last year = 0.783 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00639 ,  95% CL = 0.00377 - 0.0108 
+ Bmsy = 0.0453 ,  95% CL = 0.02 - 0.102 
+ Biomass in last year  = 0.0618 , 2.5th perc = 0.0383 , 97.5 perc = 0.0722 
+ B/Bmsy in last year   = 1.37 , 2.5th perc = 0.846 , 97.5 perc = 1.59 
+ Fishing mortality in last year = 0.11 , 2.5th perc = 0.0947 , 97.5 perc = 0.178 
+ F/Fmsy  = 0.783 , 2.5th perc = 0.671 , 97.5 perc = 1.26 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 11 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_60yr_1 
+ Computer fish 11 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 1 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 30 default 
+ Prior final relative biomass   = 0.4 - 0.8 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0268 - 1.61
+
+ Results of CMSY analysis with altogether 5094 viable trajectories for 973 r-k pairs 
+ r = 0.282 , 95% CL = 0.163 - 0.487 , k = 0.0786 , 95% CL = 0.0419 - 0.147 
+ MSY = 0.00554 , 95% CL = 0.00472 - 0.00651 
+ Relative biomass last year = 0.6 k, 2.5th = 0.414 , 97.5th = 0.696 
+ Exploitation F/(r/2) in last year = 0.827 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.141 , 95% CL = 0.0817 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00554 ,  95% CL = 0.00472 - 0.00651 
+ Bmsy = 0.0393 ,  95% CL = 0.021 - 0.0736 
+ Biomass in last year  = 0.0472 , 2.5th perc = 0.0325 , 97.5 perc = 0.0547 
+ B/Bmsy in last year   = 1.2 , 2.5th perc = 0.827 , 97.5 perc = 1.39 
+ Fishing mortality in last year = 0.117 , 2.5th perc = 0.101 , 97.5 perc = 0.169 
+ F/Fmsy  = 0.827 , 2.5th perc = 0.713 , 97.5 perc = 1.2 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 12 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_60yr_10 
+ Computer fish 12 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 1 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 36 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0152 - 0.608
+
+ Results of CMSY analysis with altogether 4720 viable trajectories for 848 r-k pairs 
+ r = 0.279 , 95% CL = 0.16 - 0.488 , k = 0.0773 , 95% CL = 0.0414 - 0.144 
+ MSY = 0.0054 , 95% CL = 0.00474 - 0.00615 
+ Relative biomass last year = 0.421 k, 2.5th = 0.216 , 97.5th = 0.574 
+ Exploitation F/(r/2) in last year = 0.932 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.14 , 95% CL = 0.0801 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.14 , 95% CL = 0.0801 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.0054 ,  95% CL = 0.00474 - 0.00615 
+ Bmsy = 0.0386 ,  95% CL = 0.0207 - 0.0721 
+ Biomass in last year  = 0.0325 , 2.5th perc = 0.0167 , 97.5 perc = 0.0444 
+ B/Bmsy in last year   = 0.843 , 2.5th perc = 0.433 , 97.5 perc = 1.15 
+ Fishing mortality in last year = 0.13 , 2.5th perc = 0.0955 , 97.5 perc = 0.253 
+ F/Fmsy  = 0.932 , 2.5th perc = 0.684 , 97.5 perc = 1.81 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 13 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_60yr_2 
+ Computer fish 13 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 1 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 50 default 
+ Prior final relative biomass   = 0.4 - 0.8 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0311 - 1.87
+
+ Results of CMSY analysis with altogether 275 viable trajectories for 263 r-k pairs 
+ r = 0.346 , 95% CL = 0.244 - 0.492 , k = 0.0693 , 95% CL = 0.0461 - 0.104 
+ MSY = 0.006 , 95% CL = 0.0056 - 0.00644 
+ Relative biomass last year = 0.427 k, 2.5th = 0.402 , 97.5th = 0.511 
+ Exploitation F/(r/2) in last year = 1.21 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.173 , 95% CL = 0.122 - 0.246 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.173 , 95% CL = 0.122 - 0.246 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.006 ,  95% CL = 0.0056 - 0.00644 
+ Bmsy = 0.0347 ,  95% CL = 0.0231 - 0.0521 
+ Biomass in last year  = 0.0296 , 2.5th perc = 0.0279 , 97.5 perc = 0.0354 
+ B/Bmsy in last year   = 0.855 , 2.5th perc = 0.804 , 97.5 perc = 1.02 
+ Fishing mortality in last year = 0.21 , 2.5th perc = 0.176 , 97.5 perc = 0.223 
+ F/Fmsy  = 1.21 , 2.5th perc = 1.01 , 97.5 perc = 1.29 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 14 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_60yr_3 
+ Computer fish 14 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 1 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 40 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0152 - 0.608
+
+ Results of CMSY analysis with altogether 4879 viable trajectories for 859 r-k pairs 
+ r = 0.278 , 95% CL = 0.159 - 0.487 , k = 0.0816 , 95% CL = 0.0446 - 0.149 
+ MSY = 0.00567 , 95% CL = 0.00501 - 0.00642 
+ Relative biomass last year = 0.378 k, 2.5th = 0.213 , 97.5th = 0.555 
+ Exploitation F/(r/2) in last year = 1.14 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.139 , 95% CL = 0.0793 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.139 , 95% CL = 0.0793 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00567 ,  95% CL = 0.00501 - 0.00642 
+ Bmsy = 0.0408 ,  95% CL = 0.0223 - 0.0747 
+ Biomass in last year  = 0.0309 , 2.5th perc = 0.0174 , 97.5 perc = 0.0453 
+ B/Bmsy in last year   = 0.756 , 2.5th perc = 0.425 , 97.5 perc = 1.11 
+ Fishing mortality in last year = 0.159 , 2.5th perc = 0.108 , 97.5 perc = 0.283 
+ F/Fmsy  = 1.14 , 2.5th perc = 0.78 , 97.5 perc = 2.03 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 15 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_60yr_4 
+ Computer fish 15 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 1 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 50 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.014 - 0.56
+
+ Results of CMSY analysis with altogether 1971 viable trajectories for 610 r-k pairs 
+ r = 0.258 , 95% CL = 0.139 - 0.478 , k = 0.0834 , 95% CL = 0.0473 - 0.147 
+ MSY = 0.00538 , 95% CL = 0.00489 - 0.00592 
+ Relative biomass last year = 0.375 k, 2.5th = 0.22 , 97.5th = 0.552 
+ Exploitation F/(r/2) in last year = 1.22 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.129 , 95% CL = 0.0695 - 0.239 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.129 , 95% CL = 0.0695 - 0.239 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00538 ,  95% CL = 0.00489 - 0.00592 
+ Bmsy = 0.0417 ,  95% CL = 0.0237 - 0.0735 
+ Biomass in last year  = 0.0313 , 2.5th perc = 0.0184 , 97.5 perc = 0.0461 
+ B/Bmsy in last year   = 0.749 , 2.5th perc = 0.44 , 97.5 perc = 1.1 
+ Fishing mortality in last year = 0.157 , 2.5th perc = 0.106 , 97.5 perc = 0.267 
+ F/Fmsy  = 1.22 , 2.5th perc = 0.825 , 97.5 perc = 2.07 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 16 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_60yr_5 
+ Computer fish 16 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 1 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.2 - 0.6 in year 41 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0178 - 0.711
+
+ Results of CMSY analysis with altogether 5864 viable trajectories for 941 r-k pairs 
+ r = 0.278 , 95% CL = 0.159 - 0.487 , k = 0.0938 , 95% CL = 0.0503 - 0.175 
+ MSY = 0.00652 , 95% CL = 0.00556 - 0.00764 
+ Relative biomass last year = 0.446 k, 2.5th = 0.215 , 97.5th = 0.587 
+ Exploitation F/(r/2) in last year = 0.882 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.139 , 95% CL = 0.0793 - 0.244 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.139 , 95% CL = 0.0793 - 0.244 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00652 ,  95% CL = 0.00556 - 0.00764 
+ Bmsy = 0.0469 ,  95% CL = 0.0252 - 0.0874 
+ Biomass in last year  = 0.0418 , 2.5th perc = 0.0202 , 97.5 perc = 0.055 
+ B/Bmsy in last year   = 0.891 , 2.5th perc = 0.43 , 97.5 perc = 1.17 
+ Fishing mortality in last year = 0.123 , 2.5th perc = 0.0931 , 97.5 perc = 0.254 
+ F/Fmsy  = 0.882 , 2.5th perc = 0.67 , 97.5 perc = 1.83 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 17 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_60yr_6 
+ Computer fish 17 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 1 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.5 - 0.9 in year 29 default 
+ Prior final relative biomass   = 0.2 - 0.6 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.0132 - 0.53
+
+ Results of CMSY analysis with altogether 6501 viable trajectories for 917 r-k pairs 
+ r = 0.27 , 95% CL = 0.152 - 0.478 , k = 0.0786 , 95% CL = 0.0434 - 0.142 
+ MSY = 0.0053 , 95% CL = 0.00471 - 0.00597 
+ Relative biomass last year = 0.508 k, 2.5th = 0.232 , 97.5th = 0.597 
+ Exploitation F/(r/2) in last year = 0.74 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.135 , 95% CL = 0.0761 - 0.239 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.135 , 95% CL = 0.0761 - 0.239 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.0053 ,  95% CL = 0.00471 - 0.00597 
+ Bmsy = 0.0393 ,  95% CL = 0.0217 - 0.0711 
+ Biomass in last year  = 0.0399 , 2.5th perc = 0.0182 , 97.5 perc = 0.0469 
+ B/Bmsy in last year   = 1.02 , 2.5th perc = 0.464 , 97.5 perc = 1.19 
+ Fishing mortality in last year = 0.0999 , 2.5th perc = 0.085 , 97.5 perc = 0.218 
+ F/Fmsy  = 0.74 , 2.5th perc = 0.63 , 97.5 perc = 1.62 
+ Comment: NA 
+ ----------------------------------------------------------
+
+Species: Fishus computerus 18 , stock: DE_100%_ED0_0.2sr_0.8ar_0.2sc_60yr_7 
+ Computer fish 18 
+ Source: Rosenburg et al. 2014 
+ Region: In , Silica 
+ Catch data used from years 1 - 60 , abundance = None 
+ Prior initial relative biomass = 0.5 - 0.9 default 
+ Prior intermediate rel. biomass= 0.01 - 0.4 in year 47 default 
+ Prior final relative biomass   = 0.4 - 0.8 , default 
+ Prior range for r = 0.05 - 0.5 default , prior range for k  = 0.03 - 1.8
+
+ Results of CMSY analysis with altogether 1434 viable trajectories for 1104 r-k pairs 
+ r = 0.343 , 95% CL = 0.239 - 0.492 , k = 0.067 , 95% CL = 0.0445 - 0.101 
+ MSY = 0.00575 , 95% CL = 0.00522 - 0.00632 
+ Relative biomass last year = 0.454 k, 2.5th = 0.403 , 97.5th = 0.601 
+ Exploitation F/(r/2) in last year = 1.13 
+
+
+ Results for Management (based on CMSY analysis) 
+ Fmsy = 0.172 , 95% CL = 0.12 - 0.246 (if B > 1/2 Bmsy then Fmsy = 0.5 r)
+ Fmsy = 0.172 , 95% CL = 0.12 - 0.246 (r and Fmsy are linearly reduced if B < 1/2 Bmsy)
+ MSY  = 0.00575 ,  95% CL = 0.00522 - 0.00632 
+ Bmsy = 0.0335 ,  95% CL = 0.0222 - 0.0505 
+ Biomass in last year  = 0.0304 , 2.5th perc = 0.027 , 97.5 perc = 0.0403 
+ B/Bmsy in last year   = 0.907 , 2.5th perc = 0.805 , 97.5 perc = 1.2 
+ Fishing mortality in last year = 0.195 , 2.5th perc = 0.147 , 97.5 perc = 0.219 
+ F/Fmsy  = 1.13 , 2.5th perc = 0.856 , 97.5 perc = 1.28 
+ Comment: NA 
+ ----------------------------------------------------------
+
